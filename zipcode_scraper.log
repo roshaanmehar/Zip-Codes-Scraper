@@ -1,0 +1,1086 @@
+2025-01-15 01:52:30,904 - INFO - Successfully fetched the page: https://www.unitedstateszipcodes.org/ga/
+2025-01-15 01:52:31,432 - INFO - Extracted state name: Georgia ZIP Codes
+2025-01-15 01:52:31,651 - INFO - Extracted 973 zip code records.
+2025-01-15 01:52:31,663 - INFO - Data has been saved to 'output\Georgia ZIP Codes_zipcodes.json'
+2025-01-15 01:52:31,727 - INFO - Connected to MongoDB successfully.
+2025-01-15 01:52:31,727 - ERROR - MongoDB operation failed: database names cannot contain the character ' '
+2025-01-15 02:27:57,939 - INFO - Successfully fetched the page: https://www.unitedstateszipcodes.org/ga/
+2025-01-15 02:27:58,466 - INFO - Extracted state name: Georgia
+2025-01-15 02:27:58,735 - INFO - Extracted 973 zip code records.
+2025-01-15 02:27:58,737 - INFO - Transformed data into 973 MongoDB documents.
+2025-01-15 02:27:58,758 - INFO - Data has been saved to 'output\Georgia_zipcodes.json'
+2025-01-15 02:27:58,778 - INFO - Connected to MongoDB successfully.
+2025-01-15 02:27:58,841 - INFO - Ensured unique index on 'postcode' in 'postalcodes' collection.
+2025-01-15 02:27:58,880 - INFO - Inserted 973 records into 'postalcodes' collection.
+2025-01-15 02:27:58,914 - INFO - Initialized 'allrecordswithandwithoutemails' collection with a unique index on 'postcode'.
+2025-01-15 02:27:58,916 - INFO - MongoDB connection closed. Script completed successfully.
+2025-01-15 02:30:11,632 - INFO - Successfully fetched the page: https://www.unitedstateszipcodes.org/ny/
+2025-01-15 02:30:12,822 - INFO - Extracted state name: New York
+2025-01-15 02:30:13,417 - INFO - Extracted 2209 zip code records.
+2025-01-15 02:30:13,419 - INFO - Transformed data into 2209 MongoDB documents.
+2025-01-15 02:30:13,466 - INFO - Data has been saved to 'output\New York_zipcodes.json'
+2025-01-15 02:30:13,507 - INFO - Connected to MongoDB successfully.
+2025-01-15 02:30:13,540 - INFO - Ensured unique index on 'postcode' in 'postalcodes' collection.
+2025-01-15 02:30:13,594 - INFO - Inserted 2209 records into 'postalcodes' collection.
+2025-01-15 02:30:13,630 - INFO - Initialized 'allrecordswithandwithoutemails' collection with a unique index on 'postcode'.
+2025-01-15 02:30:13,632 - INFO - MongoDB connection closed. Script completed successfully.
+2025-01-15 02:39:57,404 - INFO - Successfully fetched the page: https://www.unitedstateszipcodes.org/ga/
+2025-01-15 02:39:57,405 - INFO - Sleeping for 2.10 seconds to be polite.
+2025-01-15 02:40:00,009 - INFO - Extracted state name: Georgia
+2025-01-15 02:40:00,292 - INFO - Extracted 973 zip code records.
+2025-01-15 02:40:00,295 - INFO - Transformed data into 973 MongoDB documents.
+2025-01-15 02:40:00,323 - INFO - Data has been saved to 'output\Georgia_zipcodes.json'
+2025-01-15 02:40:00,352 - INFO - Connected to MongoDB successfully.
+2025-01-15 02:40:00,353 - INFO - Ensured unique index on 'postcode' in 'postalcodes' collection.
+2025-01-15 02:40:00,524 - INFO - Bulk write operation completed. Inserted: 0, Modified: 973
+2025-01-15 02:40:00,552 - INFO - Initialized 'allrecordswithand_withoutemails' collection with a unique index on 'postcode'.
+2025-01-15 02:40:00,554 - INFO - MongoDB connection closed. Script completed successfully.
+2025-01-15 02:43:40,098 - INFO - Successfully fetched the page: https://www.unitedstateszipcodes.org/ga/
+2025-01-15 02:43:40,099 - INFO - Sleeping for 1.54 seconds to be polite.
+2025-01-15 02:43:42,185 - INFO - Extracted state name: Georgia
+2025-01-15 02:43:42,462 - INFO - Extracted 973 zip code records.
+2025-01-15 02:43:42,467 - INFO - Transformed data into 973 MongoDB documents.
+2025-01-15 02:43:42,490 - INFO - Data has been saved to 'output\Georgia_zipcodes.json'
+2025-01-15 02:43:42,524 - INFO - Connected to MongoDB successfully.
+2025-01-15 02:43:42,525 - INFO - Ensured unique index on 'postcode' in 'postalcodes' collection.
+2025-01-15 02:43:42,671 - INFO - Bulk write operation completed. Inserted: 0, Modified: 973
+2025-01-15 02:43:42,699 - INFO - Initialized 'allrecordswithand_withoutemails' collection with a unique index on 'postcode'.
+2025-01-15 02:43:42,700 - INFO - MongoDB connection closed. Script completed successfully.
+2025-01-15 02:50:40,088 - INFO - Successfully fetched the page: https://www.unitedstateszipcodes.org/ga/
+2025-01-15 02:50:40,089 - INFO - Sleeping for 2.77 seconds to be polite.
+2025-01-15 02:50:43,379 - INFO - Extracted state name: Georgia
+2025-01-15 02:50:43,671 - INFO - Extracted 973 zip code records.
+2025-01-15 02:50:43,676 - INFO - Transformed data into 973 MongoDB documents.
+2025-01-15 02:50:43,698 - INFO - Data has been saved to 'output\Georgia_zipcodes.json'
+2025-01-15 02:50:43,727 - INFO - Connected to MongoDB successfully.
+2025-01-15 02:50:43,729 - INFO - Ensured unique index on 'postcode' in 'postalcodes' collection.
+2025-01-15 02:50:43,835 - WARNING - Inserted 0 records; 973 duplicates were skipped.
+2025-01-15 02:50:43,837 - INFO - 'allrecordswithandwithoutemails' collection already exists.
+2025-01-15 02:50:43,839 - INFO - MongoDB connection closed. Script completed successfully.
+2025-01-15 03:28:15,839 - INFO - Successfully fetched the page: https://www.unitedstateszipcodes.org/ga/
+2025-01-15 03:28:16,480 - INFO - Extracted state name: Georgia
+2025-01-15 03:28:16,787 - INFO - Extracted 973 zip code records.
+2025-01-15 03:28:16,792 - INFO - Transformed data into 973 MongoDB documents.
+2025-01-15 03:28:16,828 - INFO - Data has been saved to 'output\Georgia_zipcodes.json'
+2025-01-15 03:28:16,932 - INFO - Connected to MongoDB successfully.
+2025-01-15 03:28:17,296 - INFO - Inserted 973 records into MongoDB.
+2025-01-15 03:28:17,297 - WARNING - Skipped 0 duplicate records.
+2025-01-15 03:28:17,298 - INFO - MongoDB connection closed. Script completed successfully.
+2025-01-15 03:30:18,472 - INFO - Successfully fetched the page: https://www.unitedstateszipcodes.org/ga/
+2025-01-15 03:30:18,982 - INFO - Extracted state name: Georgia
+2025-01-15 03:30:19,249 - INFO - Extracted 973 zip code records.
+2025-01-15 03:30:19,255 - INFO - Transformed data into 973 MongoDB documents.
+2025-01-15 03:30:19,288 - INFO - Data has been saved to 'output\Georgia_zipcodes.json'
+2025-01-15 03:30:19,304 - INFO - Connected to MongoDB successfully.
+2025-01-15 03:30:19,380 - ERROR - MongoDB operation failed: Index build failed: 8ac37c4c-b7e9-404e-8317-8bd11feacdfb: Collection Georgia.postalcodes ( a4c23aa9-c5c7-41d2-88f8-5aaa986bb174 ) :: caused by :: E11000 duplicate key error collection: Georgia.postalcodes index: postcode_1 dup key: { postcode: 30002 }, full error: {'ok': 0.0, 'errmsg': 'Index build failed: 8ac37c4c-b7e9-404e-8317-8bd11feacdfb: Collection Georgia.postalcodes ( a4c23aa9-c5c7-41d2-88f8-5aaa986bb174 ) :: caused by :: E11000 duplicate key error collection: Georgia.postalcodes index: postcode_1 dup key: { postcode: 30002 }', 'code': 11000, 'codeName': 'DuplicateKey', 'keyPattern': {'postcode': 1}, 'keyValue': {'postcode': 30002}}
+2025-01-15 03:31:14,369 - INFO - Successfully fetched the page: https://www.unitedstateszipcodes.org/ga/
+2025-01-15 03:31:14,369 - INFO - Sleeping for 1.52 seconds to be polite.
+2025-01-15 03:31:16,387 - INFO - Extracted state name: Georgia
+2025-01-15 03:31:16,665 - INFO - Extracted 973 zip code records.
+2025-01-15 03:31:16,672 - INFO - Transformed data into 973 MongoDB documents.
+2025-01-15 03:31:16,698 - INFO - Data has been saved to 'output\Georgia_zipcodes.json'
+2025-01-15 03:31:16,728 - INFO - Connected to MongoDB successfully.
+2025-01-15 03:31:16,799 - ERROR - MongoDB operation failed: Index build failed: 1fd3023e-fb73-439a-b008-6262f6a18fb4: Collection Georgia.postalcodes ( a4c23aa9-c5c7-41d2-88f8-5aaa986bb174 ) :: caused by :: E11000 duplicate key error collection: Georgia.postalcodes index: postcode_1 dup key: { postcode: 30002 }, full error: {'ok': 0.0, 'errmsg': 'Index build failed: 1fd3023e-fb73-439a-b008-6262f6a18fb4: Collection Georgia.postalcodes ( a4c23aa9-c5c7-41d2-88f8-5aaa986bb174 ) :: caused by :: E11000 duplicate key error collection: Georgia.postalcodes index: postcode_1 dup key: { postcode: 30002 }', 'code': 11000, 'codeName': 'DuplicateKey', 'keyPattern': {'postcode': 1}, 'keyValue': {'postcode': 30002}}
+2025-01-15 03:33:14,905 - INFO - Successfully fetched the page: https://www.unitedstateszipcodes.org/ga/
+2025-01-15 03:33:15,426 - INFO - Extracted state name: Georgia
+2025-01-15 03:33:15,692 - INFO - Extracted 973 zip code records.
+2025-01-15 03:33:15,697 - INFO - Transformed data into 973 MongoDB documents.
+2025-01-15 03:33:15,717 - INFO - Data has been saved to 'output\Georgia_zipcodes.json'
+2025-01-15 03:33:15,766 - INFO - Connected to MongoDB successfully.
+2025-01-15 03:33:15,806 - INFO - Removed 1 duplicate entries for postcode 31631.
+2025-01-15 03:33:15,808 - INFO - Removed 1 duplicate entries for postcode 30581.
+2025-01-15 03:33:15,811 - INFO - Removed 1 duplicate entries for postcode 30081.
+2025-01-15 03:33:15,814 - INFO - Removed 1 duplicate entries for postcode 39861.
+2025-01-15 03:33:15,816 - INFO - Removed 1 duplicate entries for postcode 31328.
+2025-01-15 03:33:15,817 - INFO - Removed 1 duplicate entries for postcode 30110.
+2025-01-15 03:33:15,819 - INFO - Removed 1 duplicate entries for postcode 30746.
+2025-01-15 03:33:15,820 - INFO - Removed 1 duplicate entries for postcode 30004.
+2025-01-15 03:33:15,822 - INFO - Removed 1 duplicate entries for postcode 30703.
+2025-01-15 03:33:15,824 - INFO - Removed 1 duplicate entries for postcode 30359.
+2025-01-15 03:33:15,825 - INFO - Removed 1 duplicate entries for postcode 31823.
+2025-01-15 03:33:15,827 - INFO - Removed 1 duplicate entries for postcode 31747.
+2025-01-15 03:33:15,829 - INFO - Removed 1 duplicate entries for postcode 30527.
+2025-01-15 03:33:15,831 - INFO - Removed 1 duplicate entries for postcode 31079.
+2025-01-15 03:33:15,835 - INFO - Removed 1 duplicate entries for postcode 30054.
+2025-01-15 03:33:15,838 - INFO - Removed 1 duplicate entries for postcode 30606.
+2025-01-15 03:33:15,840 - INFO - Removed 1 duplicate entries for postcode 31297.
+2025-01-15 03:33:15,842 - INFO - Removed 1 duplicate entries for postcode 30664.
+2025-01-15 03:33:15,846 - INFO - Removed 1 duplicate entries for postcode 30260.
+2025-01-15 03:33:15,849 - INFO - Removed 1 duplicate entries for postcode 30622.
+2025-01-15 03:33:15,852 - INFO - Removed 1 duplicate entries for postcode 31709.
+2025-01-15 03:33:15,854 - INFO - Removed 1 duplicate entries for postcode 31772.
+2025-01-15 03:33:15,855 - INFO - Removed 1 duplicate entries for postcode 31036.
+2025-01-15 03:33:15,858 - INFO - Removed 1 duplicate entries for postcode 30710.
+2025-01-15 03:33:15,860 - INFO - Removed 1 duplicate entries for postcode 30470.
+2025-01-15 03:33:15,864 - INFO - Removed 1 duplicate entries for postcode 31503.
+2025-01-15 03:33:15,867 - INFO - Removed 1 duplicate entries for postcode 39897.
+2025-01-15 03:33:15,868 - INFO - Removed 1 duplicate entries for postcode 30084.
+2025-01-15 03:33:15,870 - INFO - Removed 1 duplicate entries for postcode 30396.
+2025-01-15 03:33:15,872 - INFO - Removed 1 duplicate entries for postcode 31557.
+2025-01-15 03:33:15,874 - INFO - Removed 1 duplicate entries for postcode 31319.
+2025-01-15 03:33:15,877 - INFO - Removed 1 duplicate entries for postcode 31773.
+2025-01-15 03:33:15,881 - INFO - Removed 1 duplicate entries for postcode 31513.
+2025-01-15 03:33:15,884 - INFO - Removed 1 duplicate entries for postcode 30833.
+2025-01-15 03:33:15,886 - INFO - Removed 1 duplicate entries for postcode 31403.
+2025-01-15 03:33:15,888 - INFO - Removed 1 duplicate entries for postcode 31569.
+2025-01-15 03:33:15,890 - INFO - Removed 1 duplicate entries for postcode 30251.
+2025-01-15 03:33:15,893 - INFO - Removed 1 duplicate entries for postcode 30165.
+2025-01-15 03:33:15,898 - INFO - Removed 1 duplicate entries for postcode 31763.
+2025-01-15 03:33:15,901 - INFO - Removed 1 duplicate entries for postcode 30287.
+2025-01-15 03:33:15,903 - INFO - Removed 1 duplicate entries for postcode 30575.
+2025-01-15 03:33:15,905 - INFO - Removed 1 duplicate entries for postcode 30322.
+2025-01-15 03:33:15,907 - INFO - Removed 1 duplicate entries for postcode 30667.
+2025-01-15 03:33:15,909 - INFO - Removed 1 duplicate entries for postcode 30540.
+2025-01-15 03:33:15,912 - INFO - Removed 1 duplicate entries for postcode 31565.
+2025-01-15 03:33:15,915 - INFO - Removed 1 duplicate entries for postcode 30087.
+2025-01-15 03:33:15,918 - INFO - Removed 1 duplicate entries for postcode 30308.
+2025-01-15 03:33:15,919 - INFO - Removed 1 duplicate entries for postcode 30720.
+2025-01-15 03:33:15,921 - INFO - Removed 1 duplicate entries for postcode 31062.
+2025-01-15 03:33:15,923 - INFO - Removed 1 duplicate entries for postcode 30263.
+2025-01-15 03:33:15,926 - INFO - Removed 1 duplicate entries for postcode 31302.
+2025-01-15 03:33:15,929 - INFO - Removed 1 duplicate entries for postcode 30116.
+2025-01-15 03:33:15,932 - INFO - Removed 1 duplicate entries for postcode 30726.
+2025-01-15 03:33:15,935 - INFO - Removed 1 duplicate entries for postcode 31756.
+2025-01-15 03:33:15,937 - INFO - Removed 1 duplicate entries for postcode 30566.
+2025-01-15 03:33:15,940 - INFO - Removed 1 duplicate entries for postcode 30137.
+2025-01-15 03:33:15,942 - INFO - Removed 1 duplicate entries for postcode 31510.
+2025-01-15 03:33:15,946 - INFO - Removed 1 duplicate entries for postcode 30028.
+2025-01-15 03:33:15,948 - INFO - Removed 1 duplicate entries for postcode 31643.
+2025-01-15 03:33:15,951 - INFO - Removed 1 duplicate entries for postcode 30002.
+2025-01-15 03:33:15,952 - INFO - Removed 1 duplicate entries for postcode 30276.
+2025-01-15 03:33:15,953 - INFO - Removed 1 duplicate entries for postcode 31642.
+2025-01-15 03:33:15,955 - INFO - Removed 1 duplicate entries for postcode 31719.
+2025-01-15 03:33:15,956 - INFO - Removed 1 duplicate entries for postcode 30009.
+2025-01-15 03:33:15,958 - INFO - Removed 1 duplicate entries for postcode 30916.
+2025-01-15 03:33:15,960 - INFO - Removed 1 duplicate entries for postcode 30077.
+2025-01-15 03:33:15,963 - INFO - Removed 1 duplicate entries for postcode 31058.
+2025-01-15 03:33:15,966 - INFO - Removed 1 duplicate entries for postcode 31084.
+2025-01-15 03:33:15,967 - INFO - Removed 1 duplicate entries for postcode 31750.
+2025-01-15 03:33:15,968 - INFO - Removed 1 duplicate entries for postcode 30557.
+2025-01-15 03:33:15,969 - INFO - Removed 1 duplicate entries for postcode 31758.
+2025-01-15 03:33:15,970 - INFO - Removed 1 duplicate entries for postcode 30724.
+2025-01-15 03:33:15,971 - INFO - Removed 1 duplicate entries for postcode 30452.
+2025-01-15 03:33:15,972 - INFO - Removed 1 duplicate entries for postcode 31706.
+2025-01-15 03:33:15,973 - INFO - Removed 1 duplicate entries for postcode 30388.
+2025-01-15 03:33:15,974 - INFO - Removed 1 duplicate entries for postcode 31635.
+2025-01-15 03:33:15,976 - INFO - Removed 1 duplicate entries for postcode 31012.
+2025-01-15 03:33:15,979 - INFO - Removed 1 duplicate entries for postcode 39818.
+2025-01-15 03:33:15,982 - INFO - Removed 1 duplicate entries for postcode 31603.
+2025-01-15 03:33:15,984 - INFO - Removed 1 duplicate entries for postcode 31567.
+2025-01-15 03:33:15,986 - INFO - Removed 1 duplicate entries for postcode 39840.
+2025-01-15 03:33:15,987 - INFO - Removed 1 duplicate entries for postcode 39826.
+2025-01-15 03:33:15,989 - INFO - Removed 1 duplicate entries for postcode 30082.
+2025-01-15 03:33:15,990 - INFO - Removed 1 duplicate entries for postcode 30812.
+2025-01-15 03:33:15,991 - INFO - Removed 1 duplicate entries for postcode 30307.
+2025-01-15 03:33:15,995 - INFO - Removed 1 duplicate entries for postcode 31810.
+2025-01-15 03:33:15,997 - INFO - Removed 1 duplicate entries for postcode 30320.
+2025-01-15 03:33:15,998 - INFO - Removed 1 duplicate entries for postcode 30625.
+2025-01-15 03:33:15,999 - INFO - Removed 1 duplicate entries for postcode 30903.
+2025-01-15 03:33:16,000 - INFO - Removed 1 duplicate entries for postcode 31078.
+2025-01-15 03:33:16,001 - INFO - Removed 1 duplicate entries for postcode 31082.
+2025-01-15 03:33:16,003 - INFO - Removed 1 duplicate entries for postcode 31906.
+2025-01-15 03:33:16,004 - INFO - Removed 1 duplicate entries for postcode 31739.
+2025-01-15 03:33:16,005 - INFO - Removed 1 duplicate entries for postcode 31816.
+2025-01-15 03:33:16,006 - INFO - Removed 1 duplicate entries for postcode 30178.
+2025-01-15 03:33:16,008 - INFO - Removed 1 duplicate entries for postcode 31011.
+2025-01-15 03:33:16,009 - INFO - Removed 1 duplicate entries for postcode 30011.
+2025-01-15 03:33:16,013 - INFO - Removed 1 duplicate entries for postcode 31296.
+2025-01-15 03:33:16,015 - INFO - Removed 1 duplicate entries for postcode 30755.
+2025-01-15 03:33:16,016 - INFO - Removed 1 duplicate entries for postcode 30515.
+2025-01-15 03:33:16,017 - INFO - Removed 1 duplicate entries for postcode 30018.
+2025-01-15 03:33:16,017 - INFO - Removed 1 duplicate entries for postcode 30535.
+2025-01-15 03:33:16,018 - INFO - Removed 1 duplicate entries for postcode 30049.
+2025-01-15 03:33:16,019 - INFO - Removed 1 duplicate entries for postcode 31029.
+2025-01-15 03:33:16,019 - INFO - Removed 1 duplicate entries for postcode 30457.
+2025-01-15 03:33:16,020 - INFO - Removed 1 duplicate entries for postcode 31831.
+2025-01-15 03:33:16,021 - INFO - Removed 1 duplicate entries for postcode 31801.
+2025-01-15 03:33:16,022 - INFO - Removed 1 duplicate entries for postcode 30380.
+2025-01-15 03:33:16,023 - INFO - Removed 1 duplicate entries for postcode 30124.
+2025-01-15 03:33:16,024 - INFO - Removed 1 duplicate entries for postcode 31202.
+2025-01-15 03:33:16,028 - INFO - Removed 1 duplicate entries for postcode 30517.
+2025-01-15 03:33:16,031 - INFO - Removed 1 duplicate entries for postcode 31799.
+2025-01-15 03:33:16,033 - INFO - Removed 1 duplicate entries for postcode 31419.
+2025-01-15 03:33:16,034 - INFO - Removed 1 duplicate entries for postcode 30031.
+2025-01-15 03:33:16,035 - INFO - Removed 1 duplicate entries for postcode 31015.
+2025-01-15 03:33:16,036 - INFO - Removed 1 duplicate entries for postcode 31320.
+2025-01-15 03:33:16,037 - INFO - Removed 1 duplicate entries for postcode 30510.
+2025-01-15 03:33:16,038 - INFO - Removed 1 duplicate entries for postcode 31027.
+2025-01-15 03:33:16,039 - INFO - Removed 1 duplicate entries for postcode 30317.
+2025-01-15 03:33:16,041 - INFO - Removed 1 duplicate entries for postcode 31807.
+2025-01-15 03:33:16,044 - INFO - Removed 1 duplicate entries for postcode 31555.
+2025-01-15 03:33:16,047 - INFO - Removed 1 duplicate entries for postcode 30122.
+2025-01-15 03:33:16,050 - INFO - Removed 1 duplicate entries for postcode 39877.
+2025-01-15 03:33:16,051 - INFO - Removed 1 duplicate entries for postcode 30608.
+2025-01-15 03:33:16,052 - INFO - Removed 1 duplicate entries for postcode 31788.
+2025-01-15 03:33:16,053 - INFO - Removed 1 duplicate entries for postcode 30072.
+2025-01-15 03:33:16,054 - INFO - Removed 1 duplicate entries for postcode 31039.
+2025-01-15 03:33:16,055 - INFO - Removed 1 duplicate entries for postcode 30073.
+2025-01-15 03:33:16,056 - INFO - Removed 1 duplicate entries for postcode 30999.
+2025-01-15 03:33:16,059 - INFO - Removed 1 duplicate entries for postcode 31050.
+2025-01-15 03:33:16,063 - INFO - Removed 1 duplicate entries for postcode 30370.
+2025-01-15 03:33:16,066 - INFO - Removed 1 duplicate entries for postcode 30034.
+2025-01-15 03:33:16,068 - INFO - Removed 1 duplicate entries for postcode 30426.
+2025-01-15 03:33:16,069 - INFO - Removed 1 duplicate entries for postcode 30456.
+2025-01-15 03:33:16,070 - INFO - Removed 1 duplicate entries for postcode 30522.
+2025-01-15 03:33:16,071 - INFO - Removed 1 duplicate entries for postcode 30913.
+2025-01-15 03:33:16,072 - INFO - Removed 1 duplicate entries for postcode 31782.
+2025-01-15 03:33:16,074 - INFO - Removed 1 duplicate entries for postcode 31527.
+2025-01-15 03:33:16,075 - INFO - Removed 1 duplicate entries for postcode 30135.
+2025-01-15 03:33:16,079 - INFO - Removed 1 duplicate entries for postcode 30336.
+2025-01-15 03:33:16,081 - INFO - Removed 1 duplicate entries for postcode 30127.
+2025-01-15 03:33:16,083 - INFO - Removed 1 duplicate entries for postcode 30013.
+2025-01-15 03:33:16,085 - INFO - Removed 1 duplicate entries for postcode 39828.
+2025-01-15 03:33:16,086 - INFO - Removed 1 duplicate entries for postcode 31415.
+2025-01-15 03:33:16,087 - INFO - Removed 1 duplicate entries for postcode 30142.
+2025-01-15 03:33:16,088 - INFO - Removed 1 duplicate entries for postcode 31411.
+2025-01-15 03:33:16,090 - INFO - Removed 1 duplicate entries for postcode 31021.
+2025-01-15 03:33:16,091 - INFO - Removed 1 duplicate entries for postcode 30008.
+2025-01-15 03:33:16,093 - INFO - Removed 1 duplicate entries for postcode 31502.
+2025-01-15 03:33:16,097 - INFO - Removed 1 duplicate entries for postcode 30901.
+2025-01-15 03:33:16,099 - INFO - Removed 1 duplicate entries for postcode 30044.
+2025-01-15 03:33:16,100 - INFO - Removed 1 duplicate entries for postcode 30164.
+2025-01-15 03:33:16,101 - INFO - Removed 1 duplicate entries for postcode 31821.
+2025-01-15 03:33:16,102 - INFO - Removed 1 duplicate entries for postcode 30310.
+2025-01-15 03:33:16,103 - INFO - Removed 1 duplicate entries for postcode 30288.
+2025-01-15 03:33:16,105 - INFO - Removed 1 duplicate entries for postcode 30576.
+2025-01-15 03:33:16,108 - INFO - Removed 1 duplicate entries for postcode 30324.
+2025-01-15 03:33:16,110 - INFO - Removed 1 duplicate entries for postcode 30058.
+2025-01-15 03:33:16,113 - INFO - Removed 1 duplicate entries for postcode 30169.
+2025-01-15 03:33:16,116 - INFO - Removed 1 duplicate entries for postcode 39901.
+2025-01-15 03:33:16,118 - INFO - Removed 1 duplicate entries for postcode 30414.
+2025-01-15 03:33:16,119 - INFO - Removed 1 duplicate entries for postcode 31796.
+2025-01-15 03:33:16,120 - INFO - Removed 1 duplicate entries for postcode 30316.
+2025-01-15 03:33:16,121 - INFO - Removed 1 duplicate entries for postcode 31412.
+2025-01-15 03:33:16,122 - INFO - Removed 1 duplicate entries for postcode 30514.
+2025-01-15 03:33:16,124 - INFO - Removed 1 duplicate entries for postcode 31649.
+2025-01-15 03:33:16,126 - INFO - Removed 1 duplicate entries for postcode 30176.
+2025-01-15 03:33:16,129 - INFO - Removed 1 duplicate entries for postcode 30295.
+2025-01-15 03:33:16,132 - INFO - Removed 1 duplicate entries for postcode 31410.
+2025-01-15 03:33:16,133 - INFO - Removed 1 duplicate entries for postcode 31704.
+2025-01-15 03:33:16,134 - INFO - Removed 1 duplicate entries for postcode 30223.
+2025-01-15 03:33:16,135 - INFO - Removed 1 duplicate entries for postcode 31901.
+2025-01-15 03:33:16,136 - INFO - Removed 1 duplicate entries for postcode 30101.
+2025-01-15 03:33:16,138 - INFO - Removed 1 duplicate entries for postcode 30428.
+2025-01-15 03:33:16,140 - INFO - Removed 1 duplicate entries for postcode 30516.
+2025-01-15 03:33:16,142 - INFO - Removed 1 duplicate entries for postcode 30458.
+2025-01-15 03:33:16,146 - INFO - Removed 1 duplicate entries for postcode 31304.
+2025-01-15 03:33:16,148 - INFO - Removed 1 duplicate entries for postcode 30436.
+2025-01-15 03:33:16,150 - INFO - Removed 1 duplicate entries for postcode 31212.
+2025-01-15 03:33:16,151 - INFO - Removed 1 duplicate entries for postcode 31201.
+2025-01-15 03:33:16,152 - INFO - Removed 1 duplicate entries for postcode 30025.
+2025-01-15 03:33:16,153 - INFO - Removed 1 duplicate entries for postcode 30907.
+2025-01-15 03:33:16,155 - INFO - Removed 1 duplicate entries for postcode 31049.
+2025-01-15 03:33:16,156 - INFO - Removed 1 duplicate entries for postcode 30818.
+2025-01-15 03:33:16,158 - INFO - Removed 1 duplicate entries for postcode 31599.
+2025-01-15 03:33:16,160 - INFO - Removed 1 duplicate entries for postcode 30904.
+2025-01-15 03:33:16,163 - INFO - Removed 1 duplicate entries for postcode 30357.
+2025-01-15 03:33:16,166 - INFO - Removed 1 duplicate entries for postcode 30353.
+2025-01-15 03:33:16,167 - INFO - Removed 1 duplicate entries for postcode 30816.
+2025-01-15 03:33:16,168 - INFO - Removed 1 duplicate entries for postcode 30286.
+2025-01-15 03:33:16,170 - INFO - Removed 1 duplicate entries for postcode 30580.
+2025-01-15 03:33:16,172 - INFO - Removed 1 duplicate entries for postcode 30642.
+2025-01-15 03:33:16,174 - INFO - Removed 1 duplicate entries for postcode 30752.
+2025-01-15 03:33:16,175 - INFO - Removed 1 duplicate entries for postcode 30751.
+2025-01-15 03:33:16,179 - INFO - Removed 1 duplicate entries for postcode 30151.
+2025-01-15 03:33:16,182 - INFO - Removed 1 duplicate entries for postcode 30107.
+2025-01-15 03:33:16,183 - INFO - Removed 1 duplicate entries for postcode 30133.
+2025-01-15 03:33:16,184 - INFO - Removed 1 duplicate entries for postcode 30560.
+2025-01-15 03:33:16,186 - INFO - Removed 1 duplicate entries for postcode 31089.
+2025-01-15 03:33:16,187 - INFO - Removed 1 duplicate entries for postcode 30152.
+2025-01-15 03:33:16,188 - INFO - Removed 1 duplicate entries for postcode 30601.
+2025-01-15 03:33:16,190 - INFO - Removed 1 duplicate entries for postcode 31905.
+2025-01-15 03:33:16,191 - INFO - Removed 1 duplicate entries for postcode 30558.
+2025-01-15 03:33:16,195 - INFO - Removed 1 duplicate entries for postcode 31093.
+2025-01-15 03:33:16,196 - INFO - Removed 1 duplicate entries for postcode 31006.
+2025-01-15 03:33:16,198 - INFO - Removed 1 duplicate entries for postcode 31203.
+2025-01-15 03:33:16,199 - INFO - Removed 1 duplicate entries for postcode 30003.
+2025-01-15 03:33:16,201 - INFO - Removed 1 duplicate entries for postcode 30708.
+2025-01-15 03:33:16,203 - INFO - Removed 1 duplicate entries for postcode 30747.
+2025-01-15 03:33:16,204 - INFO - Removed 1 duplicate entries for postcode 31409.
+2025-01-15 03:33:16,205 - INFO - Removed 1 duplicate entries for postcode 31303.
+2025-01-15 03:33:16,207 - INFO - Removed 1 duplicate entries for postcode 31207.
+2025-01-15 03:33:16,208 - INFO - Removed 1 duplicate entries for postcode 31307.
+2025-01-15 03:33:16,212 - INFO - Removed 1 duplicate entries for postcode 30048.
+2025-01-15 03:33:16,214 - INFO - Removed 1 duplicate entries for postcode 30512.
+2025-01-15 03:33:16,216 - INFO - Removed 1 duplicate entries for postcode 30340.
+2025-01-15 03:33:16,217 - INFO - Removed 1 duplicate entries for postcode 30162.
+2025-01-15 03:33:16,219 - INFO - Removed 1 duplicate entries for postcode 30150.
+2025-01-15 03:33:16,220 - INFO - Removed 1 duplicate entries for postcode 30451.
+2025-01-15 03:33:16,221 - INFO - Removed 1 duplicate entries for postcode 30358.
+2025-01-15 03:33:16,222 - INFO - Removed 1 duplicate entries for postcode 30063.
+2025-01-15 03:33:16,223 - INFO - Removed 1 duplicate entries for postcode 30273.
+2025-01-15 03:33:16,226 - INFO - Removed 1 duplicate entries for postcode 31083.
+2025-01-15 03:33:16,230 - INFO - Removed 1 duplicate entries for postcode 31156.
+2025-01-15 03:33:16,233 - INFO - Removed 1 duplicate entries for postcode 31524.
+2025-01-15 03:33:16,235 - INFO - Removed 1 duplicate entries for postcode 31420.
+2025-01-15 03:33:16,236 - INFO - Removed 1 duplicate entries for postcode 30647.
+2025-01-15 03:33:16,238 - INFO - Removed 1 duplicate entries for postcode 30343.
+2025-01-15 03:33:16,240 - INFO - Removed 1 duplicate entries for postcode 31063.
+2025-01-15 03:33:16,241 - INFO - Removed 1 duplicate entries for postcode 31566.
+2025-01-15 03:33:16,243 - INFO - Removed 1 duplicate entries for postcode 31106.
+2025-01-15 03:33:16,247 - INFO - Removed 1 duplicate entries for postcode 30420.
+2025-01-15 03:33:16,250 - INFO - Removed 1 duplicate entries for postcode 31830.
+2025-01-15 03:33:16,251 - INFO - Removed 1 duplicate entries for postcode 30464.
+2025-01-15 03:33:16,252 - INFO - Removed 1 duplicate entries for postcode 31040.
+2025-01-15 03:33:16,254 - INFO - Removed 1 duplicate entries for postcode 30183.
+2025-01-15 03:33:16,254 - INFO - Removed 1 duplicate entries for postcode 31150.
+2025-01-15 03:33:16,255 - INFO - Removed 1 duplicate entries for postcode 30399.
+2025-01-15 03:33:16,257 - INFO - Removed 1 duplicate entries for postcode 31534.
+2025-01-15 03:33:16,259 - INFO - Removed 1 duplicate entries for postcode 30327.
+2025-01-15 03:33:16,263 - INFO - Removed 1 duplicate entries for postcode 30259.
+2025-01-15 03:33:16,266 - INFO - Removed 1 duplicate entries for postcode 30598.
+2025-01-15 03:33:16,267 - INFO - Removed 1 duplicate entries for postcode 31632.
+2025-01-15 03:33:16,268 - INFO - Removed 1 duplicate entries for postcode 30205.
+2025-01-15 03:33:16,269 - INFO - Removed 1 duplicate entries for postcode 30102.
+2025-01-15 03:33:16,270 - INFO - Removed 1 duplicate entries for postcode 31781.
+2025-01-15 03:33:16,271 - INFO - Removed 1 duplicate entries for postcode 31702.
+2025-01-15 03:33:16,272 - INFO - Removed 1 duplicate entries for postcode 31836.
+2025-01-15 03:33:16,274 - INFO - Removed 1 duplicate entries for postcode 30252.
+2025-01-15 03:33:16,275 - INFO - Removed 1 duplicate entries for postcode 30571.
+2025-01-15 03:33:16,280 - INFO - Removed 1 duplicate entries for postcode 30645.
+2025-01-15 03:33:16,283 - INFO - Removed 1 duplicate entries for postcode 30099.
+2025-01-15 03:33:16,285 - INFO - Removed 1 duplicate entries for postcode 31198.
+2025-01-15 03:33:16,286 - INFO - Removed 1 duplicate entries for postcode 31639.
+2025-01-15 03:33:16,287 - INFO - Removed 1 duplicate entries for postcode 30105.
+2025-01-15 03:33:16,289 - INFO - Removed 1 duplicate entries for postcode 30188.
+2025-01-15 03:33:16,290 - INFO - Removed 1 duplicate entries for postcode 31548.
+2025-01-15 03:33:16,292 - INFO - Removed 1 duplicate entries for postcode 31059.
+2025-01-15 03:33:16,297 - INFO - Removed 1 duplicate entries for postcode 31811.
+2025-01-15 03:33:16,299 - INFO - Removed 1 duplicate entries for postcode 30129.
+2025-01-15 03:33:16,300 - INFO - Removed 1 duplicate entries for postcode 31792.
+2025-01-15 03:33:16,301 - INFO - Removed 1 duplicate entries for postcode 31401.
+2025-01-15 03:33:16,301 - INFO - Removed 1 duplicate entries for postcode 30805.
+2025-01-15 03:33:16,303 - INFO - Removed 1 duplicate entries for postcode 30349.
+2025-01-15 03:33:16,304 - INFO - Removed 1 duplicate entries for postcode 30392.
+2025-01-15 03:33:16,305 - INFO - Removed 1 duplicate entries for postcode 31193.
+2025-01-15 03:33:16,307 - INFO - Removed 1 duplicate entries for postcode 31418.
+2025-01-15 03:33:16,309 - INFO - Removed 1 duplicate entries for postcode 30035.
+2025-01-15 03:33:16,313 - INFO - Removed 1 duplicate entries for postcode 30739.
+2025-01-15 03:33:16,316 - INFO - Removed 1 duplicate entries for postcode 31072.
+2025-01-15 03:33:16,317 - INFO - Removed 1 duplicate entries for postcode 31090.
+2025-01-15 03:33:16,318 - INFO - Removed 1 duplicate entries for postcode 31744.
+2025-01-15 03:33:16,319 - INFO - Removed 1 duplicate entries for postcode 39859.
+2025-01-15 03:33:16,321 - INFO - Removed 1 duplicate entries for postcode 30319.
+2025-01-15 03:33:16,322 - INFO - Removed 1 duplicate entries for postcode 31533.
+2025-01-15 03:33:16,324 - INFO - Removed 1 duplicate entries for postcode 30071.
+2025-01-15 03:33:16,327 - INFO - Removed 1 duplicate entries for postcode 30362.
+2025-01-15 03:33:16,332 - INFO - Removed 1 duplicate entries for postcode 30064.
+2025-01-15 03:33:16,334 - INFO - Removed 1 duplicate entries for postcode 31743.
+2025-01-15 03:33:16,335 - INFO - Removed 1 duplicate entries for postcode 31310.
+2025-01-15 03:33:16,336 - INFO - Removed 1 duplicate entries for postcode 30141.
+2025-01-15 03:33:16,338 - INFO - Removed 1 duplicate entries for postcode 30577.
+2025-01-15 03:33:16,339 - INFO - Removed 1 duplicate entries for postcode 31917.
+2025-01-15 03:33:16,342 - INFO - Removed 1 duplicate entries for postcode 30292.
+2025-01-15 03:33:16,345 - INFO - Removed 1 duplicate entries for postcode 31624.
+2025-01-15 03:33:16,348 - INFO - Removed 1 duplicate entries for postcode 30643.
+2025-01-15 03:33:16,350 - INFO - Removed 1 duplicate entries for postcode 31044.
+2025-01-15 03:33:16,352 - INFO - Removed 1 duplicate entries for postcode 30355.
+2025-01-15 03:33:16,353 - INFO - Removed 1 duplicate entries for postcode 39862.
+2025-01-15 03:33:16,354 - INFO - Removed 1 duplicate entries for postcode 30501.
+2025-01-15 03:33:16,356 - INFO - Removed 1 duplicate entries for postcode 30061.
+2025-01-15 03:33:16,358 - INFO - Removed 1 duplicate entries for postcode 31041.
+2025-01-15 03:33:16,361 - INFO - Removed 1 duplicate entries for postcode 31771.
+2025-01-15 03:33:16,364 - INFO - Removed 1 duplicate entries for postcode 31774.
+2025-01-15 03:33:16,366 - INFO - Removed 1 duplicate entries for postcode 30384.
+2025-01-15 03:33:16,367 - INFO - Removed 1 duplicate entries for postcode 30274.
+2025-01-15 03:33:16,368 - INFO - Removed 1 duplicate entries for postcode 31805.
+2025-01-15 03:33:16,369 - INFO - Removed 1 duplicate entries for postcode 31010.
+2025-01-15 03:33:16,370 - INFO - Removed 1 duplicate entries for postcode 31716.
+2025-01-15 03:33:16,372 - INFO - Removed 1 duplicate entries for postcode 39827.
+2025-01-15 03:33:16,374 - INFO - Removed 1 duplicate entries for postcode 30730.
+2025-01-15 03:33:16,376 - INFO - Removed 1 duplicate entries for postcode 30175.
+2025-01-15 03:33:16,378 - INFO - Removed 1 duplicate entries for postcode 31208.
+2025-01-15 03:33:16,381 - INFO - Removed 1 duplicate entries for postcode 30055.
+2025-01-15 03:33:16,383 - INFO - Removed 1 duplicate entries for postcode 31904.
+2025-01-15 03:33:16,384 - INFO - Removed 1 duplicate entries for postcode 30182.
+2025-01-15 03:33:16,385 - INFO - Removed 1 duplicate entries for postcode 31701.
+2025-01-15 03:33:16,387 - INFO - Removed 1 duplicate entries for postcode 30919.
+2025-01-15 03:33:16,388 - INFO - Removed 1 duplicate entries for postcode 30639.
+2025-01-15 03:33:16,390 - INFO - Removed 1 duplicate entries for postcode 31051.
+2025-01-15 03:33:16,391 - INFO - Removed 1 duplicate entries for postcode 31803.
+2025-01-15 03:33:16,393 - INFO - Removed 1 duplicate entries for postcode 30113.
+2025-01-15 03:33:16,396 - INFO - Removed 1 duplicate entries for postcode 31537.
+2025-01-15 03:33:16,400 - INFO - Removed 1 duplicate entries for postcode 30038.
+2025-01-15 03:33:16,403 - INFO - Removed 1 duplicate entries for postcode 30347.
+2025-01-15 03:33:16,405 - INFO - Removed 1 duplicate entries for postcode 30157.
+2025-01-15 03:33:16,407 - INFO - Removed 1 duplicate entries for postcode 30070.
+2025-01-15 03:33:16,409 - INFO - Removed 1 duplicate entries for postcode 31760.
+2025-01-15 03:33:16,412 - INFO - Removed 1 duplicate entries for postcode 31733.
+2025-01-15 03:33:16,414 - INFO - Removed 1 duplicate entries for postcode 31824.
+2025-01-15 03:33:16,416 - INFO - Removed 1 duplicate entries for postcode 30033.
+2025-01-15 03:33:16,417 - INFO - Removed 1 duplicate entries for postcode 31091.
+2025-01-15 03:33:16,418 - INFO - Removed 1 duplicate entries for postcode 30171.
+2025-01-15 03:33:16,419 - INFO - Removed 1 duplicate entries for postcode 30114.
+2025-01-15 03:33:16,420 - INFO - Removed 1 duplicate entries for postcode 39886.
+2025-01-15 03:33:16,421 - INFO - Removed 1 duplicate entries for postcode 31139.
+2025-01-15 03:33:16,422 - INFO - Removed 1 duplicate entries for postcode 31136.
+2025-01-15 03:33:16,424 - INFO - Removed 1 duplicate entries for postcode 30328.
+2025-01-15 03:33:16,425 - INFO - Removed 1 duplicate entries for postcode 30621.
+2025-01-15 03:33:16,428 - INFO - Removed 1 duplicate entries for postcode 39825.
+2025-01-15 03:33:16,431 - INFO - Removed 1 duplicate entries for postcode 31542.
+2025-01-15 03:33:16,432 - INFO - Removed 1 duplicate entries for postcode 31808.
+2025-01-15 03:33:16,433 - INFO - Removed 1 duplicate entries for postcode 31088.
+2025-01-15 03:33:16,435 - INFO - Removed 1 duplicate entries for postcode 30467.
+2025-01-15 03:33:16,437 - INFO - Removed 1 duplicate entries for postcode 30531.
+2025-01-15 03:33:16,440 - INFO - Removed 1 duplicate entries for postcode 30543.
+2025-01-15 03:33:16,442 - INFO - Removed 1 duplicate entries for postcode 30417.
+2025-01-15 03:33:16,446 - INFO - Removed 1 duplicate entries for postcode 39824.
+2025-01-15 03:33:16,449 - INFO - Removed 1 duplicate entries for postcode 39851.
+2025-01-15 03:33:16,451 - INFO - Removed 1 duplicate entries for postcode 31779.
+2025-01-15 03:33:16,453 - INFO - Removed 1 duplicate entries for postcode 30503.
+2025-01-15 03:33:16,454 - INFO - Removed 1 duplicate entries for postcode 30222.
+2025-01-15 03:33:16,456 - INFO - Removed 1 duplicate entries for postcode 30115.
+2025-01-15 03:33:16,457 - INFO - Removed 1 duplicate entries for postcode 30045.
+2025-01-15 03:33:16,460 - INFO - Removed 1 duplicate entries for postcode 30258.
+2025-01-15 03:33:16,463 - INFO - Removed 1 duplicate entries for postcode 30149.
+2025-01-15 03:33:16,466 - INFO - Removed 1 duplicate entries for postcode 31735.
+2025-01-15 03:33:16,468 - INFO - Removed 1 duplicate entries for postcode 31637.
+2025-01-15 03:33:16,470 - INFO - Removed 1 duplicate entries for postcode 30605.
+2025-01-15 03:33:16,471 - INFO - Removed 1 duplicate entries for postcode 30813.
+2025-01-15 03:33:16,473 - INFO - Removed 1 duplicate entries for postcode 30721.
+2025-01-15 03:33:16,474 - INFO - Removed 1 duplicate entries for postcode 39823.
+2025-01-15 03:33:16,476 - INFO - Removed 1 duplicate entries for postcode 31031.
+2025-01-15 03:33:16,480 - INFO - Removed 1 duplicate entries for postcode 30757.
+2025-01-15 03:33:16,483 - INFO - Removed 1 duplicate entries for postcode 31096.
+2025-01-15 03:33:16,484 - INFO - Removed 1 duplicate entries for postcode 30368.
+2025-01-15 03:33:16,485 - INFO - Removed 1 duplicate entries for postcode 30909.
+2025-01-15 03:33:16,486 - INFO - Removed 1 duplicate entries for postcode 31060.
+2025-01-15 03:33:16,487 - INFO - Removed 1 duplicate entries for postcode 31768.
+2025-01-15 03:33:16,488 - INFO - Removed 1 duplicate entries for postcode 30374.
+2025-01-15 03:33:16,490 - INFO - Removed 1 duplicate entries for postcode 30331.
+2025-01-15 03:33:16,491 - INFO - Removed 1 duplicate entries for postcode 30023.
+2025-01-15 03:33:16,493 - INFO - Removed 1 duplicate entries for postcode 31035.
+2025-01-15 03:33:16,497 - INFO - Removed 1 duplicate entries for postcode 31708.
+2025-01-15 03:33:16,500 - INFO - Removed 1 duplicate entries for postcode 31789.
+2025-01-15 03:33:16,502 - INFO - Removed 1 duplicate entries for postcode 30332.
+2025-01-15 03:33:16,503 - INFO - Removed 1 duplicate entries for postcode 31169.
+2025-01-15 03:33:16,504 - INFO - Removed 1 duplicate entries for postcode 31784.
+2025-01-15 03:33:16,505 - INFO - Removed 1 duplicate entries for postcode 30733.
+2025-01-15 03:33:16,507 - INFO - Removed 1 duplicate entries for postcode 30379.
+2025-01-15 03:33:16,508 - INFO - Removed 1 duplicate entries for postcode 30599.
+2025-01-15 03:33:16,512 - INFO - Removed 1 duplicate entries for postcode 31192.
+2025-01-15 03:33:16,514 - INFO - Removed 1 duplicate entries for postcode 30638.
+2025-01-15 03:33:16,516 - INFO - Removed 1 duplicate entries for postcode 31518.
+2025-01-15 03:33:16,517 - INFO - Removed 1 duplicate entries for postcode 30236.
+2025-01-15 03:33:16,519 - INFO - Removed 1 duplicate entries for postcode 31119.
+2025-01-15 03:33:16,520 - INFO - Removed 1 duplicate entries for postcode 31324.
+2025-01-15 03:33:16,521 - INFO - Removed 1 duplicate entries for postcode 30596.
+2025-01-15 03:33:16,522 - INFO - Removed 1 duplicate entries for postcode 30507.
+2025-01-15 03:33:16,523 - INFO - Removed 1 duplicate entries for postcode 31630.
+2025-01-15 03:33:16,524 - INFO - Removed 1 duplicate entries for postcode 31120.
+2025-01-15 03:33:16,526 - INFO - Removed 1 duplicate entries for postcode 30019.
+2025-01-15 03:33:16,530 - INFO - Removed 1 duplicate entries for postcode 30705.
+2025-01-15 03:33:16,534 - INFO - Removed 1 duplicate entries for postcode 39867.
+2025-01-15 03:33:16,535 - INFO - Removed 1 duplicate entries for postcode 30530.
+2025-01-15 03:33:16,537 - INFO - Removed 1 duplicate entries for postcode 30544.
+2025-01-15 03:33:16,538 - INFO - Removed 1 duplicate entries for postcode 31568.
+2025-01-15 03:33:16,539 - INFO - Removed 1 duplicate entries for postcode 30041.
+2025-01-15 03:33:16,540 - INFO - Removed 1 duplicate entries for postcode 31749.
+2025-01-15 03:33:16,542 - INFO - Removed 1 duplicate entries for postcode 31791.
+2025-01-15 03:33:16,547 - INFO - Removed 1 duplicate entries for postcode 30093.
+2025-01-15 03:33:16,549 - INFO - Removed 1 duplicate entries for postcode 31023.
+2025-01-15 03:33:16,550 - INFO - Removed 1 duplicate entries for postcode 31213.
+2025-01-15 03:33:16,552 - INFO - Removed 1 duplicate entries for postcode 30314.
+2025-01-15 03:33:16,553 - INFO - Removed 1 duplicate entries for postcode 31604.
+2025-01-15 03:33:16,554 - INFO - Removed 1 duplicate entries for postcode 31547.
+2025-01-15 03:33:16,555 - INFO - Removed 1 duplicate entries for postcode 30817.
+2025-01-15 03:33:16,557 - INFO - Removed 1 duplicate entries for postcode 30504.
+2025-01-15 03:33:16,559 - INFO - Removed 1 duplicate entries for postcode 31908.
+2025-01-15 03:33:16,563 - INFO - Removed 1 duplicate entries for postcode 30662.
+2025-01-15 03:33:16,566 - INFO - Removed 1 duplicate entries for postcode 31408.
+2025-01-15 03:33:16,568 - INFO - Removed 1 duplicate entries for postcode 31005.
+2025-01-15 03:33:16,569 - INFO - Removed 1 duplicate entries for postcode 30719.
+2025-01-15 03:33:16,570 - INFO - Removed 1 duplicate entries for postcode 31141.
+2025-01-15 03:33:16,571 - INFO - Removed 1 duplicate entries for postcode 30756.
+2025-01-15 03:33:16,572 - INFO - Removed 1 duplicate entries for postcode 30629.
+2025-01-15 03:33:16,573 - INFO - Removed 1 duplicate entries for postcode 30074.
+2025-01-15 03:33:16,575 - INFO - Removed 1 duplicate entries for postcode 30536.
+2025-01-15 03:33:16,577 - INFO - Removed 1 duplicate entries for postcode 30046.
+2025-01-15 03:33:16,580 - INFO - Removed 1 duplicate entries for postcode 30424.
+2025-01-15 03:33:16,583 - INFO - Removed 1 duplicate entries for postcode 31914.
+2025-01-15 03:33:16,584 - INFO - Removed 1 duplicate entries for postcode 31765.
+2025-01-15 03:33:16,585 - INFO - Removed 1 duplicate entries for postcode 30217.
+2025-01-15 03:33:16,586 - INFO - Removed 1 duplicate entries for postcode 30042.
+2025-01-15 03:33:16,587 - INFO - Removed 1 duplicate entries for postcode 30277.
+2025-01-15 03:33:16,588 - INFO - Removed 1 duplicate entries for postcode 31764.
+2025-01-15 03:33:16,589 - INFO - Removed 1 duplicate entries for postcode 30366.
+2025-01-15 03:33:16,590 - INFO - Removed 1 duplicate entries for postcode 31707.
+2025-01-15 03:33:16,592 - INFO - Removed 1 duplicate entries for postcode 31783.
+2025-01-15 03:33:16,596 - INFO - Removed 1 duplicate entries for postcode 30305.
+2025-01-15 03:33:16,600 - INFO - Removed 1 duplicate entries for postcode 31295.
+2025-01-15 03:33:16,601 - INFO - Removed 1 duplicate entries for postcode 30354.
+2025-01-15 03:33:16,602 - INFO - Removed 1 duplicate entries for postcode 30371.
+2025-01-15 03:33:16,603 - INFO - Removed 1 duplicate entries for postcode 30145.
+2025-01-15 03:33:16,604 - INFO - Removed 1 duplicate entries for postcode 30633.
+2025-01-15 03:33:16,605 - INFO - Removed 1 duplicate entries for postcode 31077.
+2025-01-15 03:33:16,606 - INFO - Removed 1 duplicate entries for postcode 30538.
+2025-01-15 03:33:16,608 - INFO - Removed 1 duplicate entries for postcode 30298.
+2025-01-15 03:33:16,611 - INFO - Removed 1 duplicate entries for postcode 30917.
+2025-01-15 03:33:16,613 - INFO - Removed 1 duplicate entries for postcode 31057.
+2025-01-15 03:33:16,616 - INFO - Removed 1 duplicate entries for postcode 31598.
+2025-01-15 03:33:16,617 - INFO - Removed 1 duplicate entries for postcode 31008.
+2025-01-15 03:33:16,618 - INFO - Removed 1 duplicate entries for postcode 31402.
+2025-01-15 03:33:16,619 - INFO - Removed 1 duplicate entries for postcode 31822.
+2025-01-15 03:33:16,620 - INFO - Removed 1 duplicate entries for postcode 30441.
+2025-01-15 03:33:16,621 - INFO - Removed 1 duplicate entries for postcode 30189.
+2025-01-15 03:33:16,622 - INFO - Removed 1 duplicate entries for postcode 30523.
+2025-01-15 03:33:16,623 - INFO - Removed 1 duplicate entries for postcode 30329.
+2025-01-15 03:33:16,624 - INFO - Removed 1 duplicate entries for postcode 30360.
+2025-01-15 03:33:16,629 - INFO - Removed 1 duplicate entries for postcode 30445.
+2025-01-15 03:33:16,633 - INFO - Removed 1 duplicate entries for postcode 31552.
+2025-01-15 03:33:16,634 - INFO - Removed 1 duplicate entries for postcode 30455.
+2025-01-15 03:33:16,635 - INFO - Removed 1 duplicate entries for postcode 31095.
+2025-01-15 03:33:16,636 - INFO - Removed 1 duplicate entries for postcode 31146.
+2025-01-15 03:33:16,637 - INFO - Removed 1 duplicate entries for postcode 30078.
+2025-01-15 03:33:16,639 - INFO - Removed 1 duplicate entries for postcode 30204.
+2025-01-15 03:33:16,640 - INFO - Removed 1 duplicate entries for postcode 31544.
+2025-01-15 03:33:16,642 - INFO - Removed 1 duplicate entries for postcode 31216.
+2025-01-15 03:33:16,646 - INFO - Removed 1 duplicate entries for postcode 31826.
+2025-01-15 03:33:16,649 - INFO - Removed 1 duplicate entries for postcode 30534.
+2025-01-15 03:33:16,650 - INFO - Removed 1 duplicate entries for postcode 30666.
+2025-01-15 03:33:16,651 - INFO - Removed 1 duplicate entries for postcode 30268.
+2025-01-15 03:33:16,652 - INFO - Removed 1 duplicate entries for postcode 30014.
+2025-01-15 03:33:16,652 - INFO - Removed 1 duplicate entries for postcode 30434.
+2025-01-15 03:33:16,653 - INFO - Removed 1 duplicate entries for postcode 31211.
+2025-01-15 03:33:16,654 - INFO - Removed 1 duplicate entries for postcode 31327.
+2025-01-15 03:33:16,655 - INFO - Removed 1 duplicate entries for postcode 31806.
+2025-01-15 03:33:16,656 - INFO - Removed 1 duplicate entries for postcode 31634.
+2025-01-15 03:33:16,658 - INFO - Removed 1 duplicate entries for postcode 31197.
+2025-01-15 03:33:16,663 - INFO - Removed 1 duplicate entries for postcode 31028.
+2025-01-15 03:33:16,666 - INFO - Removed 1 duplicate entries for postcode 31042.
+2025-01-15 03:33:16,667 - INFO - Removed 1 duplicate entries for postcode 30187.
+2025-01-15 03:33:16,668 - INFO - Removed 1 duplicate entries for postcode 31068.
+2025-01-15 03:33:16,669 - INFO - Removed 1 duplicate entries for postcode 30140.
+2025-01-15 03:33:16,670 - INFO - Removed 1 duplicate entries for postcode 30067.
+2025-01-15 03:33:16,671 - INFO - Removed 1 duplicate entries for postcode 30741.
+2025-01-15 03:33:16,672 - INFO - Removed 1 duplicate entries for postcode 30421.
+2025-01-15 03:33:16,674 - INFO - Removed 1 duplicate entries for postcode 31066.
+2025-01-15 03:33:16,676 - INFO - Removed 1 duplicate entries for postcode 31004.
+2025-01-15 03:33:16,678 - INFO - Removed 1 duplicate entries for postcode 30234.
+2025-01-15 03:33:16,680 - INFO - Removed 1 duplicate entries for postcode 30413.
+2025-01-15 03:33:16,682 - INFO - Removed 1 duplicate entries for postcode 31047.
+2025-01-15 03:33:16,683 - INFO - Removed 1 duplicate entries for postcode 31305.
+2025-01-15 03:33:16,684 - INFO - Removed 1 duplicate entries for postcode 31032.
+2025-01-15 03:33:16,685 - INFO - Removed 1 duplicate entries for postcode 30603.
+2025-01-15 03:33:16,687 - INFO - Removed 1 duplicate entries for postcode 30453.
+2025-01-15 03:33:16,688 - INFO - Removed 1 duplicate entries for postcode 30348.
+2025-01-15 03:33:16,691 - INFO - Removed 1 duplicate entries for postcode 30655.
+2025-01-15 03:33:16,693 - INFO - Removed 1 duplicate entries for postcode 30012.
+2025-01-15 03:33:16,696 - INFO - Removed 1 duplicate entries for postcode 30250.
+2025-01-15 03:33:16,699 - INFO - Removed 1 duplicate entries for postcode 30634.
+2025-01-15 03:33:16,700 - INFO - Removed 1 duplicate entries for postcode 30214.
+2025-01-15 03:33:16,701 - INFO - Removed 1 duplicate entries for postcode 30356.
+2025-01-15 03:33:16,702 - INFO - Removed 1 duplicate entries for postcode 30241.
+2025-01-15 03:33:16,704 - INFO - Removed 1 duplicate entries for postcode 31098.
+2025-01-15 03:33:16,706 - INFO - Removed 1 duplicate entries for postcode 31199.
+2025-01-15 03:33:16,708 - INFO - Removed 1 duplicate entries for postcode 30238.
+2025-01-15 03:33:16,712 - INFO - Removed 1 duplicate entries for postcode 31543.
+2025-01-15 03:33:16,714 - INFO - Removed 1 duplicate entries for postcode 31602.
+2025-01-15 03:33:16,716 - INFO - Removed 1 duplicate entries for postcode 31787.
+2025-01-15 03:33:16,717 - INFO - Removed 1 duplicate entries for postcode 30459.
+2025-01-15 03:33:16,719 - INFO - Removed 1 duplicate entries for postcode 30043.
+2025-01-15 03:33:16,720 - INFO - Removed 1 duplicate entries for postcode 30502.
+2025-01-15 03:33:16,722 - INFO - Removed 1 duplicate entries for postcode 30673.
+2025-01-15 03:33:16,723 - INFO - Removed 1 duplicate entries for postcode 31071.
+2025-01-15 03:33:16,727 - INFO - Removed 1 duplicate entries for postcode 31145.
+2025-01-15 03:33:16,730 - INFO - Removed 1 duplicate entries for postcode 31820.
+2025-01-15 03:33:16,733 - INFO - Removed 1 duplicate entries for postcode 31832.
+2025-01-15 03:33:16,734 - INFO - Removed 1 duplicate entries for postcode 30180.
+2025-01-15 03:33:16,736 - INFO - Removed 1 duplicate entries for postcode 31606.
+2025-01-15 03:33:16,737 - INFO - Removed 1 duplicate entries for postcode 30121.
+2025-01-15 03:33:16,740 - INFO - Removed 1 duplicate entries for postcode 31622.
+2025-01-15 03:33:16,742 - INFO - Removed 1 duplicate entries for postcode 31554.
+2025-01-15 03:33:16,745 - INFO - Removed 1 duplicate entries for postcode 30132.
+2025-01-15 03:33:16,747 - INFO - Removed 1 duplicate entries for postcode 30736.
+2025-01-15 03:33:16,750 - INFO - Removed 1 duplicate entries for postcode 30742.
+2025-01-15 03:33:16,751 - INFO - Removed 1 duplicate entries for postcode 30607.
+2025-01-15 03:33:16,752 - INFO - Removed 1 duplicate entries for postcode 31516.
+2025-01-15 03:33:16,753 - INFO - Removed 1 duplicate entries for postcode 30184.
+2025-01-15 03:33:16,754 - INFO - Removed 1 duplicate entries for postcode 30597.
+2025-01-15 03:33:16,755 - INFO - Removed 1 duplicate entries for postcode 30454.
+2025-01-15 03:33:16,757 - INFO - Removed 1 duplicate entries for postcode 30275.
+2025-01-15 03:33:16,759 - INFO - Removed 1 duplicate entries for postcode 30056.
+2025-01-15 03:33:16,764 - INFO - Removed 1 duplicate entries for postcode 30711.
+2025-01-15 03:33:16,768 - INFO - Removed 1 duplicate entries for postcode 30519.
+2025-01-15 03:33:16,773 - INFO - Removed 1 duplicate entries for postcode 30148.
+2025-01-15 03:33:16,786 - INFO - Removed 1 duplicate entries for postcode 30224.
+2025-01-15 03:33:16,797 - INFO - Removed 1 duplicate entries for postcode 30281.
+2025-01-15 03:33:16,820 - INFO - Removed 1 duplicate entries for postcode 30528.
+2025-01-15 03:33:16,823 - INFO - Removed 1 duplicate entries for postcode 31086.
+2025-01-15 03:33:16,826 - INFO - Removed 1 duplicate entries for postcode 31712.
+2025-01-15 03:33:16,839 - INFO - Removed 1 duplicate entries for postcode 31020.
+2025-01-15 03:33:16,845 - INFO - Removed 1 duplicate entries for postcode 30554.
+2025-01-15 03:33:16,848 - INFO - Removed 1 duplicate entries for postcode 31061.
+2025-01-15 03:33:16,856 - INFO - Removed 1 duplicate entries for postcode 30154.
+2025-01-15 03:33:16,863 - INFO - Removed 1 duplicate entries for postcode 30423.
+2025-01-15 03:33:16,865 - INFO - Removed 1 duplicate entries for postcode 30318.
+2025-01-15 03:33:16,867 - INFO - Removed 1 duplicate entries for postcode 30341.
+2025-01-15 03:33:16,870 - INFO - Removed 1 duplicate entries for postcode 31512.
+2025-01-15 03:33:16,872 - INFO - Removed 1 duplicate entries for postcode 30506.
+2025-01-15 03:33:16,874 - INFO - Removed 1 duplicate entries for postcode 31794.
+2025-01-15 03:33:16,876 - INFO - Removed 1 duplicate entries for postcode 30294.
+2025-01-15 03:33:16,877 - INFO - Removed 1 duplicate entries for postcode 30650.
+2025-01-15 03:33:16,881 - INFO - Removed 1 duplicate entries for postcode 31620.
+2025-01-15 03:33:16,882 - INFO - Removed 1 duplicate entries for postcode 30549.
+2025-01-15 03:33:16,892 - INFO - Removed 1 duplicate entries for postcode 31903.
+2025-01-15 03:33:16,894 - INFO - Removed 1 duplicate entries for postcode 31550.
+2025-01-15 03:33:16,899 - INFO - Removed 1 duplicate entries for postcode 31902.
+2025-01-15 03:33:16,901 - INFO - Removed 1 duplicate entries for postcode 30284.
+2025-01-15 03:33:16,905 - INFO - Removed 1 duplicate entries for postcode 31009.
+2025-01-15 03:33:16,912 - INFO - Removed 1 duplicate entries for postcode 30213.
+2025-01-15 03:33:16,919 - INFO - Removed 1 duplicate entries for postcode 31416.
+2025-01-15 03:33:16,922 - INFO - Removed 1 duplicate entries for postcode 31814.
+2025-01-15 03:33:16,923 - INFO - Removed 1 duplicate entries for postcode 30285.
+2025-01-15 03:33:16,926 - INFO - Removed 1 duplicate entries for postcode 30548.
+2025-01-15 03:33:16,930 - INFO - Removed 1 duplicate entries for postcode 30627.
+2025-01-15 03:33:16,932 - INFO - Removed 1 duplicate entries for postcode 31825.
+2025-01-15 03:33:16,933 - INFO - Removed 1 duplicate entries for postcode 30807.
+2025-01-15 03:33:16,936 - INFO - Removed 1 duplicate entries for postcode 30206.
+2025-01-15 03:33:16,937 - INFO - Removed 1 duplicate entries for postcode 30289.
+2025-01-15 03:33:16,939 - INFO - Removed 1 duplicate entries for postcode 30369.
+2025-01-15 03:33:16,944 - INFO - Removed 1 duplicate entries for postcode 30091.
+2025-01-15 03:33:16,946 - INFO - Removed 1 duplicate entries for postcode 30123.
+2025-01-15 03:33:16,947 - INFO - Removed 1 duplicate entries for postcode 31046.
+2025-01-15 03:33:16,949 - INFO - Removed 1 duplicate entries for postcode 30117.
+2025-01-15 03:33:16,951 - INFO - Removed 1 duplicate entries for postcode 30303.
+2025-01-15 03:33:16,953 - INFO - Removed 1 duplicate entries for postcode 30671.
+2025-01-15 03:33:16,955 - INFO - Removed 1 duplicate entries for postcode 31313.
+2025-01-15 03:33:16,961 - INFO - Removed 1 duplicate entries for postcode 31131.
+2025-01-15 03:33:16,966 - INFO - Removed 1 duplicate entries for postcode 30302.
+2025-01-15 03:33:16,968 - INFO - Removed 1 duplicate entries for postcode 30573.
+2025-01-15 03:33:16,971 - INFO - Removed 1 duplicate entries for postcode 31722.
+2025-01-15 03:33:16,974 - INFO - Removed 1 duplicate entries for postcode 31205.
+2025-01-15 03:33:16,981 - INFO - Removed 1 duplicate entries for postcode 31561.
+2025-01-15 03:33:16,985 - INFO - Removed 1 duplicate entries for postcode 30338.
+2025-01-15 03:33:16,987 - INFO - Removed 1 duplicate entries for postcode 30567.
+2025-01-15 03:33:16,989 - INFO - Removed 1 duplicate entries for postcode 31294.
+2025-01-15 03:33:16,992 - INFO - Removed 1 duplicate entries for postcode 31757.
+2025-01-15 03:33:16,996 - INFO - Removed 1 duplicate entries for postcode 30005.
+2025-01-15 03:33:16,998 - INFO - Removed 1 duplicate entries for postcode 31220.
+2025-01-15 03:33:17,000 - INFO - Removed 1 duplicate entries for postcode 31210.
+2025-01-15 03:33:17,002 - INFO - Removed 1 duplicate entries for postcode 30040.
+2025-01-15 03:33:17,004 - INFO - Removed 1 duplicate entries for postcode 31217.
+2025-01-15 03:33:17,008 - INFO - Removed 1 duplicate entries for postcode 39841.
+2025-01-15 03:33:17,013 - INFO - Removed 1 duplicate entries for postcode 31793.
+2025-01-15 03:33:17,015 - INFO - Removed 1 duplicate entries for postcode 30172.
+2025-01-15 03:33:17,017 - INFO - Removed 1 duplicate entries for postcode 31551.
+2025-01-15 03:33:17,019 - INFO - Removed 1 duplicate entries for postcode 31711.
+2025-01-15 03:33:17,021 - INFO - Removed 1 duplicate entries for postcode 30015.
+2025-01-15 03:33:17,023 - INFO - Removed 1 duplicate entries for postcode 30219.
+2025-01-15 03:33:17,026 - INFO - Removed 1 duplicate entries for postcode 30533.
+2025-01-15 03:33:17,031 - INFO - Removed 1 duplicate entries for postcode 31329.
+2025-01-15 03:33:17,034 - INFO - Removed 1 duplicate entries for postcode 30096.
+2025-01-15 03:33:17,036 - INFO - Removed 1 duplicate entries for postcode 30635.
+2025-01-15 03:33:17,038 - INFO - Removed 1 duplicate entries for postcode 30144.
+2025-01-15 03:33:17,042 - INFO - Removed 1 duplicate entries for postcode 31627.
+2025-01-15 03:33:17,046 - INFO - Removed 1 duplicate entries for postcode 30822.
+2025-01-15 03:33:17,048 - INFO - Removed 1 duplicate entries for postcode 30803.
+2025-01-15 03:33:17,050 - INFO - Removed 1 duplicate entries for postcode 31995.
+2025-01-15 03:33:17,052 - INFO - Removed 1 duplicate entries for postcode 31414.
+2025-01-15 03:33:17,054 - INFO - Removed 1 duplicate entries for postcode 30683.
+2025-01-15 03:33:17,057 - INFO - Removed 1 duplicate entries for postcode 31025.
+2025-01-15 03:33:17,062 - INFO - Removed 1 duplicate entries for postcode 30429.
+2025-01-15 03:33:17,064 - INFO - Removed 1 duplicate entries for postcode 31069.
+2025-01-15 03:33:17,067 - INFO - Removed 1 duplicate entries for postcode 30134.
+2025-01-15 03:33:17,069 - INFO - Removed 1 duplicate entries for postcode 30547.
+2025-01-15 03:33:17,071 - INFO - Removed 1 duplicate entries for postcode 30646.
+2025-01-15 03:33:17,080 - INFO - Removed 1 duplicate entries for postcode 30069.
+2025-01-15 03:33:17,083 - INFO - Removed 1 duplicate entries for postcode 31535.
+2025-01-15 03:33:17,085 - INFO - Removed 1 duplicate entries for postcode 31546.
+2025-01-15 03:33:17,089 - INFO - Removed 1 duplicate entries for postcode 30168.
+2025-01-15 03:33:17,096 - INFO - Removed 1 duplicate entries for postcode 31521.
+2025-01-15 03:33:17,098 - INFO - Removed 1 duplicate entries for postcode 30143.
+2025-01-15 03:33:17,101 - INFO - Removed 1 duplicate entries for postcode 30179.
+2025-01-15 03:33:17,103 - INFO - Removed 1 duplicate entries for postcode 31026.
+2025-01-15 03:33:17,105 - INFO - Removed 1 duplicate entries for postcode 31812.
+2025-01-15 03:33:17,109 - INFO - Removed 1 duplicate entries for postcode 30325.
+2025-01-15 03:33:17,114 - INFO - Removed 1 duplicate entries for postcode 30620.
+2025-01-15 03:33:17,116 - INFO - Removed 1 duplicate entries for postcode 30378.
+2025-01-15 03:33:17,119 - INFO - Removed 1 duplicate entries for postcode 31776.
+2025-01-15 03:33:17,121 - INFO - Removed 1 duplicate entries for postcode 30810.
+2025-01-15 03:33:17,123 - INFO - Removed 1 duplicate entries for postcode 30264.
+2025-01-15 03:33:17,128 - INFO - Removed 1 duplicate entries for postcode 30261.
+2025-01-15 03:33:17,131 - INFO - Removed 1 duplicate entries for postcode 31221.
+2025-01-15 03:33:17,133 - INFO - Removed 1 duplicate entries for postcode 30120.
+2025-01-15 03:33:17,136 - INFO - Removed 1 duplicate entries for postcode 30442.
+2025-01-15 03:33:17,139 - INFO - Removed 1 duplicate entries for postcode 31798.
+2025-01-15 03:33:17,143 - INFO - Removed 1 duplicate entries for postcode 30052.
+2025-01-15 03:33:17,145 - INFO - Removed 1 duplicate entries for postcode 31033.
+2025-01-15 03:33:17,160 - INFO - Removed 1 duplicate entries for postcode 30017.
+2025-01-15 03:33:17,182 - INFO - Removed 1 duplicate entries for postcode 30212.
+2025-01-15 03:33:17,188 - INFO - Removed 1 duplicate entries for postcode 30555.
+2025-01-15 03:33:17,197 - INFO - Removed 1 duplicate entries for postcode 30415.
+2025-01-15 03:33:17,201 - INFO - Removed 1 duplicate entries for postcode 31314.
+2025-01-15 03:33:17,204 - INFO - Removed 1 duplicate entries for postcode 31563.
+2025-01-15 03:33:17,206 - INFO - Removed 1 duplicate entries for postcode 30732.
+2025-01-15 03:33:17,215 - INFO - Removed 1 duplicate entries for postcode 31703.
+2025-01-15 03:33:17,218 - INFO - Removed 1 duplicate entries for postcode 30290.
+2025-01-15 03:33:17,219 - INFO - Removed 1 duplicate entries for postcode 30473.
+2025-01-15 03:33:17,221 - INFO - Removed 1 duplicate entries for postcode 30563.
+2025-01-15 03:33:17,224 - INFO - Removed 1 duplicate entries for postcode 30037.
+2025-01-15 03:33:17,230 - INFO - Removed 1 duplicate entries for postcode 30390.
+2025-01-15 03:33:17,232 - INFO - Removed 1 duplicate entries for postcode 30461.
+2025-01-15 03:33:17,234 - INFO - Removed 1 duplicate entries for postcode 30438.
+2025-01-15 03:33:17,236 - INFO - Removed 1 duplicate entries for postcode 30641.
+2025-01-15 03:33:17,237 - INFO - Removed 1 duplicate entries for postcode 31421.
+2025-01-15 03:33:17,239 - INFO - Removed 1 duplicate entries for postcode 30269.
+2025-01-15 03:33:17,245 - INFO - Removed 1 duplicate entries for postcode 30160.
+2025-01-15 03:33:17,260 - INFO - Removed 1 duplicate entries for postcode 30511.
+2025-01-15 03:33:17,265 - INFO - Removed 1 duplicate entries for postcode 31191.
+2025-01-15 03:33:17,267 - INFO - Removed 1 duplicate entries for postcode 31002.
+2025-01-15 03:33:17,269 - INFO - Removed 1 duplicate entries for postcode 31650.
+2025-01-15 03:33:17,271 - INFO - Removed 1 duplicate entries for postcode 31999.
+2025-01-15 03:33:17,274 - INFO - Removed 1 duplicate entries for postcode 30389.
+2025-01-15 03:33:17,279 - INFO - Removed 1 duplicate entries for postcode 30602.
+2025-01-15 03:33:17,281 - INFO - Removed 1 duplicate entries for postcode 31738.
+2025-01-15 03:33:17,283 - INFO - Removed 1 duplicate entries for postcode 31720.
+2025-01-15 03:33:17,284 - INFO - Removed 1 duplicate entries for postcode 30024.
+2025-01-15 03:33:17,286 - INFO - Removed 1 duplicate entries for postcode 30448.
+2025-01-15 03:33:17,288 - INFO - Removed 1 duplicate entries for postcode 30609.
+2025-01-15 03:33:17,292 - INFO - Removed 1 duplicate entries for postcode 30630.
+2025-01-15 03:33:17,298 - INFO - Removed 1 duplicate entries for postcode 31638.
+2025-01-15 03:33:17,300 - INFO - Removed 1 duplicate entries for postcode 30427.
+2025-01-15 03:33:17,303 - INFO - Removed 1 duplicate entries for postcode 31034.
+2025-01-15 03:33:17,305 - INFO - Removed 1 duplicate entries for postcode 31909.
+2025-01-15 03:33:17,308 - INFO - Removed 1 duplicate entries for postcode 30297.
+2025-01-15 03:33:17,312 - INFO - Removed 1 duplicate entries for postcode 30248.
+2025-01-15 03:33:17,314 - INFO - Removed 1 duplicate entries for postcode 30660.
+2025-01-15 03:33:17,316 - INFO - Removed 1 duplicate entries for postcode 30342.
+2025-01-15 03:33:17,318 - INFO - Removed 1 duplicate entries for postcode 30520.
+2025-01-15 03:33:17,320 - INFO - Removed 1 duplicate entries for postcode 39829.
+2025-01-15 03:33:17,321 - INFO - Removed 1 duplicate entries for postcode 39834.
+2025-01-15 03:33:17,322 - INFO - Removed 1 duplicate entries for postcode 31003.
+2025-01-15 03:33:17,325 - INFO - Removed 1 duplicate entries for postcode 30802.
+2025-01-15 03:33:17,330 - INFO - Removed 1 duplicate entries for postcode 30309.
+2025-01-15 03:33:17,332 - INFO - Removed 1 duplicate entries for postcode 30446.
+2025-01-15 03:33:17,334 - INFO - Removed 1 duplicate entries for postcode 31907.
+2025-01-15 03:33:17,336 - INFO - Removed 1 duplicate entries for postcode 30914.
+2025-01-15 03:33:17,338 - INFO - Removed 1 duplicate entries for postcode 39885.
+2025-01-15 03:33:17,341 - INFO - Removed 1 duplicate entries for postcode 30411.
+2025-01-15 03:33:17,346 - INFO - Removed 1 duplicate entries for postcode 30039.
+2025-01-15 03:33:17,348 - INFO - Removed 1 duplicate entries for postcode 30266.
+2025-01-15 03:33:17,350 - INFO - Removed 1 duplicate entries for postcode 31778.
+2025-01-15 03:33:17,351 - INFO - Removed 1 duplicate entries for postcode 30668.
+2025-01-15 03:33:17,352 - INFO - Removed 1 duplicate entries for postcode 30518.
+2025-01-15 03:33:17,353 - INFO - Removed 1 duplicate entries for postcode 31144.
+2025-01-15 03:33:17,354 - INFO - Removed 1 duplicate entries for postcode 30678.
+2025-01-15 03:33:17,355 - INFO - Removed 1 duplicate entries for postcode 39837.
+2025-01-15 03:33:17,358 - INFO - Removed 1 duplicate entries for postcode 30525.
+2025-01-15 03:33:17,362 - INFO - Removed 1 duplicate entries for postcode 30177.
+2025-01-15 03:33:17,363 - INFO - Removed 1 duplicate entries for postcode 31721.
+2025-01-15 03:33:17,364 - INFO - Removed 1 duplicate entries for postcode 30326.
+2025-01-15 03:33:17,365 - INFO - Removed 1 duplicate entries for postcode 31209.
+2025-01-15 03:33:17,366 - INFO - Removed 1 duplicate entries for postcode 30669.
+2025-01-15 03:33:17,366 - INFO - Removed 1 duplicate entries for postcode 30809.
+2025-01-15 03:33:17,368 - INFO - Removed 1 duplicate entries for postcode 31064.
+2025-01-15 03:33:17,369 - INFO - Removed 1 duplicate entries for postcode 39817.
+2025-01-15 03:33:17,370 - INFO - Removed 1 duplicate entries for postcode 30079.
+2025-01-15 03:33:17,371 - INFO - Removed 1 duplicate entries for postcode 30066.
+2025-01-15 03:33:17,372 - INFO - Removed 1 duplicate entries for postcode 30237.
+2025-01-15 03:33:17,375 - INFO - Removed 1 duplicate entries for postcode 30731.
+2025-01-15 03:33:17,380 - INFO - Removed 1 duplicate entries for postcode 30256.
+2025-01-15 03:33:17,382 - INFO - Removed 1 duplicate entries for postcode 31556.
+2025-01-15 03:33:17,383 - INFO - Removed 1 duplicate entries for postcode 30552.
+2025-01-15 03:33:17,384 - INFO - Removed 1 duplicate entries for postcode 31629.
+2025-01-15 03:33:17,386 - INFO - Removed 1 duplicate entries for postcode 31815.
+2025-01-15 03:33:17,387 - INFO - Removed 1 duplicate entries for postcode 31038.
+2025-01-15 03:33:17,388 - INFO - Removed 1 duplicate entries for postcode 30828.
+2025-01-15 03:33:17,390 - INFO - Removed 1 duplicate entries for postcode 30270.
+2025-01-15 03:33:17,393 - INFO - Removed 1 duplicate entries for postcode 31087.
+2025-01-15 03:33:17,397 - INFO - Removed 1 duplicate entries for postcode 30163.
+2025-01-15 03:33:17,399 - INFO - Removed 1 duplicate entries for postcode 30346.
+2025-01-15 03:33:17,400 - INFO - Removed 1 duplicate entries for postcode 30215.
+2025-01-15 03:33:17,401 - INFO - Removed 1 duplicate entries for postcode 30830.
+2025-01-15 03:33:17,402 - INFO - Removed 1 duplicate entries for postcode 30361.
+2025-01-15 03:33:17,403 - INFO - Removed 1 duplicate entries for postcode 30707.
+2025-01-15 03:33:17,405 - INFO - Removed 1 duplicate entries for postcode 31625.
+2025-01-15 03:33:17,408 - INFO - Removed 1 duplicate entries for postcode 30656.
+2025-01-15 03:33:17,413 - INFO - Removed 1 duplicate entries for postcode 31714.
+2025-01-15 03:33:17,414 - INFO - Removed 1 duplicate entries for postcode 31107.
+2025-01-15 03:33:17,415 - INFO - Removed 1 duplicate entries for postcode 31301.
+2025-01-15 03:33:17,416 - INFO - Removed 1 duplicate entries for postcode 31532.
+2025-01-15 03:33:17,417 - INFO - Removed 1 duplicate entries for postcode 31195.
+2025-01-15 03:33:17,418 - INFO - Removed 1 duplicate entries for postcode 30912.
+2025-01-15 03:33:17,420 - INFO - Removed 1 duplicate entries for postcode 31099.
+2025-01-15 03:33:17,422 - INFO - Removed 1 duplicate entries for postcode 31827.
+2025-01-15 03:33:17,426 - INFO - Removed 1 duplicate entries for postcode 30007.
+2025-01-15 03:33:17,431 - INFO - Removed 1 duplicate entries for postcode 30477.
+2025-01-15 03:33:17,432 - INFO - Removed 1 duplicate entries for postcode 30047.
+2025-01-15 03:33:17,434 - INFO - Removed 1 duplicate entries for postcode 30819.
+2025-01-15 03:33:17,436 - INFO - Removed 1 duplicate entries for postcode 31558.
+2025-01-15 03:33:17,438 - INFO - Removed 1 duplicate entries for postcode 39846.
+2025-01-15 03:33:17,440 - INFO - Removed 1 duplicate entries for postcode 30808.
+2025-01-15 03:33:17,446 - INFO - Removed 1 duplicate entries for postcode 30350.
+2025-01-15 03:33:17,449 - INFO - Removed 1 duplicate entries for postcode 30460.
+2025-01-15 03:33:17,452 - INFO - Removed 1 duplicate entries for postcode 30086.
+2025-01-15 03:33:17,454 - INFO - Removed 1 duplicate entries for postcode 30304.
+2025-01-15 03:33:17,457 - INFO - Removed 1 duplicate entries for postcode 30344.
+2025-01-15 03:33:17,462 - INFO - Removed 1 duplicate entries for postcode 30401.
+2025-01-15 03:33:17,467 - INFO - Removed 1 duplicate entries for postcode 31085.
+2025-01-15 03:33:17,469 - INFO - Removed 1 duplicate entries for postcode 31321.
+2025-01-15 03:33:17,473 - INFO - Removed 1 duplicate entries for postcode 30109.
+2025-01-15 03:33:17,477 - INFO - Removed 1 duplicate entries for postcode 30385.
+2025-01-15 03:33:17,482 - INFO - Removed 1 duplicate entries for postcode 30097.
+2025-01-15 03:33:17,484 - INFO - Removed 1 duplicate entries for postcode 30306.
+2025-01-15 03:33:17,485 - INFO - Removed 1 duplicate entries for postcode 30118.
+2025-01-15 03:33:17,487 - INFO - Removed 1 duplicate entries for postcode 31070.
+2025-01-15 03:33:17,489 - INFO - Removed 1 duplicate entries for postcode 31333.
+2025-01-15 03:33:17,496 - INFO - Removed 1 duplicate entries for postcode 31790.
+2025-01-15 03:33:17,499 - INFO - Removed 1 duplicate entries for postcode 31545.
+2025-01-15 03:33:17,501 - INFO - Removed 1 duplicate entries for postcode 31647.
+2025-01-15 03:33:17,504 - INFO - Removed 1 duplicate entries for postcode 39854.
+2025-01-15 03:33:17,506 - INFO - Removed 1 duplicate entries for postcode 30088.
+2025-01-15 03:33:17,512 - INFO - Removed 1 duplicate entries for postcode 30823.
+2025-01-15 03:33:17,514 - INFO - Removed 1 duplicate entries for postcode 30036.
+2025-01-15 03:33:17,516 - INFO - Removed 1 duplicate entries for postcode 30147.
+2025-01-15 03:33:17,518 - INFO - Removed 1 duplicate entries for postcode 30410.
+2025-01-15 03:33:17,520 - INFO - Removed 1 duplicate entries for postcode 31560.
+2025-01-15 03:33:17,521 - INFO - Removed 1 duplicate entries for postcode 31206.
+2025-01-15 03:33:17,525 - INFO - Removed 1 duplicate entries for postcode 31316.
+2025-01-15 03:33:17,530 - INFO - Removed 1 duplicate entries for postcode 30301.
+2025-01-15 03:33:17,533 - INFO - Removed 1 duplicate entries for postcode 30103.
+2025-01-15 03:33:17,536 - INFO - Removed 1 duplicate entries for postcode 31065.
+2025-01-15 03:33:17,540 - INFO - Removed 1 duplicate entries for postcode 30253.
+2025-01-15 03:33:17,547 - INFO - Removed 1 duplicate entries for postcode 31993.
+2025-01-15 03:33:17,550 - INFO - Removed 1 duplicate entries for postcode 30119.
+2025-01-15 03:33:17,552 - INFO - Removed 1 duplicate entries for postcode 30572.
+2025-01-15 03:33:17,555 - INFO - Removed 1 duplicate entries for postcode 30447.
+2025-01-15 03:33:17,559 - INFO - Removed 1 duplicate entries for postcode 30311.
+2025-01-15 03:33:17,564 - INFO - Removed 1 duplicate entries for postcode 30821.
+2025-01-15 03:33:17,567 - INFO - Removed 1 duplicate entries for postcode 31013.
+2025-01-15 03:33:17,570 - INFO - Removed 1 duplicate entries for postcode 30296.
+2025-01-15 03:33:17,572 - INFO - Removed 1 duplicate entries for postcode 30911.
+2025-01-15 03:33:17,579 - INFO - Removed 1 duplicate entries for postcode 31076.
+2025-01-15 03:33:17,582 - INFO - Removed 1 duplicate entries for postcode 30582.
+2025-01-15 03:33:17,586 - INFO - Removed 1 duplicate entries for postcode 39842.
+2025-01-15 03:33:17,588 - INFO - Removed 1 duplicate entries for postcode 31562.
+2025-01-15 03:33:17,591 - INFO - Removed 1 duplicate entries for postcode 31326.
+2025-01-15 03:33:17,596 - INFO - Removed 1 duplicate entries for postcode 30499.
+2025-01-15 03:33:17,598 - INFO - Removed 1 duplicate entries for postcode 31833.
+2025-01-15 03:33:17,600 - INFO - Removed 1 duplicate entries for postcode 30125.
+2025-01-15 03:33:17,601 - INFO - Removed 1 duplicate entries for postcode 39815.
+2025-01-15 03:33:17,602 - INFO - Removed 1 duplicate entries for postcode 30394.
+2025-01-15 03:33:17,605 - INFO - Removed 1 duplicate entries for postcode 30272.
+2025-01-15 03:33:17,609 - INFO - Removed 1 duplicate entries for postcode 31795.
+2025-01-15 03:33:17,614 - INFO - Removed 1 duplicate entries for postcode 30104.
+2025-01-15 03:33:17,616 - INFO - Removed 1 duplicate entries for postcode 30722.
+2025-01-15 03:33:17,618 - INFO - Removed 1 duplicate entries for postcode 30728.
+2025-01-15 03:33:17,620 - INFO - Removed 1 duplicate entries for postcode 39845.
+2025-01-15 03:33:17,623 - INFO - Removed 1 duplicate entries for postcode 31017.
+2025-01-15 03:33:17,628 - INFO - Removed 1 duplicate entries for postcode 31699.
+2025-01-15 03:33:17,633 - INFO - Removed 1 duplicate entries for postcode 30032.
+2025-01-15 03:33:17,635 - INFO - Removed 1 duplicate entries for postcode 30333.
+2025-01-15 03:33:17,638 - INFO - Removed 1 duplicate entries for postcode 31525.
+2025-01-15 03:33:17,643 - INFO - Removed 1 duplicate entries for postcode 31623.
+2025-01-15 03:33:17,646 - INFO - Removed 1 duplicate entries for postcode 31769.
+2025-01-15 03:33:17,650 - INFO - Removed 1 duplicate entries for postcode 31539.
+2025-01-15 03:33:17,655 - INFO - Removed 1 duplicate entries for postcode 30080.
+2025-01-15 03:33:17,661 - INFO - Removed 1 duplicate entries for postcode 30449.
+2025-01-15 03:33:17,668 - INFO - Removed 1 duplicate entries for postcode 30240.
+2025-01-15 03:33:17,671 - INFO - Removed 1 duplicate entries for postcode 30108.
+2025-01-15 03:33:17,676 - INFO - Removed 1 duplicate entries for postcode 30568.
+2025-01-15 03:33:17,681 - INFO - Removed 1 duplicate entries for postcode 30521.
+2025-01-15 03:33:17,687 - INFO - Removed 1 duplicate entries for postcode 31549.
+2025-01-15 03:33:17,689 - INFO - Removed 1 duplicate entries for postcode 30345.
+2025-01-15 03:33:17,696 - INFO - Removed 1 duplicate entries for postcode 31014.
+2025-01-15 03:33:17,700 - INFO - Removed 1 duplicate entries for postcode 30062.
+2025-01-15 03:33:17,702 - INFO - Removed 1 duplicate entries for postcode 30701.
+2025-01-15 03:33:17,704 - INFO - Removed 1 duplicate entries for postcode 31007.
+2025-01-15 03:33:17,706 - INFO - Removed 1 duplicate entries for postcode 30006.
+2025-01-15 03:33:17,712 - INFO - Removed 1 duplicate entries for postcode 30139.
+2025-01-15 03:33:17,716 - INFO - Removed 1 duplicate entries for postcode 31308.
+2025-01-15 03:33:17,718 - INFO - Removed 1 duplicate entries for postcode 30170.
+2025-01-15 03:33:17,719 - INFO - Removed 1 duplicate entries for postcode 39819.
+2025-01-15 03:33:17,720 - INFO - Removed 1 duplicate entries for postcode 30092.
+2025-01-15 03:33:17,721 - INFO - Removed 1 duplicate entries for postcode 30387.
+2025-01-15 03:33:17,722 - INFO - Removed 1 duplicate entries for postcode 30026.
+2025-01-15 03:33:17,727 - INFO - Removed 1 duplicate entries for postcode 30680.
+2025-01-15 03:33:17,729 - INFO - Removed 1 duplicate entries for postcode 30824.
+2025-01-15 03:33:17,731 - INFO - Removed 1 duplicate entries for postcode 30425.
+2025-01-15 03:33:17,733 - INFO - Removed 1 duplicate entries for postcode 30138.
+2025-01-15 03:33:17,735 - INFO - Removed 1 duplicate entries for postcode 30029.
+2025-01-15 03:33:17,736 - INFO - Removed 1 duplicate entries for postcode 30375.
+2025-01-15 03:33:17,737 - INFO - Removed 1 duplicate entries for postcode 30631.
+2025-01-15 03:33:17,738 - INFO - Removed 1 duplicate entries for postcode 31067.
+2025-01-15 03:33:17,741 - INFO - Removed 1 duplicate entries for postcode 31024.
+2025-01-15 03:33:17,745 - INFO - Removed 1 duplicate entries for postcode 30016.
+2025-01-15 03:33:17,747 - INFO - Removed 1 duplicate entries for postcode 31515.
+2025-01-15 03:33:17,748 - INFO - Removed 1 duplicate entries for postcode 31705.
+2025-01-15 03:33:17,749 - INFO - Removed 1 duplicate entries for postcode 31648.
+2025-01-15 03:33:17,750 - INFO - Removed 1 duplicate entries for postcode 30562.
+2025-01-15 03:33:17,751 - INFO - Removed 1 duplicate entries for postcode 30022.
+2025-01-15 03:33:17,752 - INFO - Removed 1 duplicate entries for postcode 31037.
+2025-01-15 03:33:17,753 - INFO - Removed 1 duplicate entries for postcode 31564.
+2025-01-15 03:33:17,754 - INFO - Removed 1 duplicate entries for postcode 31126.
+2025-01-15 03:33:17,756 - INFO - Removed 1 duplicate entries for postcode 30820.
+2025-01-15 03:33:17,759 - INFO - Removed 1 duplicate entries for postcode 31998.
+2025-01-15 03:33:17,764 - INFO - Removed 1 duplicate entries for postcode 30111.
+2025-01-15 03:33:17,765 - INFO - Removed 1 duplicate entries for postcode 30363.
+2025-01-15 03:33:17,767 - INFO - Removed 1 duplicate entries for postcode 30376.
+2025-01-15 03:33:17,768 - INFO - Removed 1 duplicate entries for postcode 31315.
+2025-01-15 03:33:17,769 - INFO - Removed 1 duplicate entries for postcode 31407.
+2025-01-15 03:33:17,771 - INFO - Removed 1 duplicate entries for postcode 31055.
+2025-01-15 03:33:17,772 - INFO - Removed 1 duplicate entries for postcode 30185.
+2025-01-15 03:33:17,773 - INFO - Removed 1 duplicate entries for postcode 30315.
+2025-01-15 03:33:17,777 - INFO - Removed 1 duplicate entries for postcode 30564.
+2025-01-15 03:33:17,779 - INFO - Removed 1 duplicate entries for postcode 31097.
+2025-01-15 03:33:17,780 - INFO - Removed 1 duplicate entries for postcode 31636.
+2025-01-15 03:33:17,782 - INFO - Removed 1 duplicate entries for postcode 31322.
+2025-01-15 03:33:17,783 - INFO - Removed 1 duplicate entries for postcode 30545.
+2025-01-15 03:33:17,784 - INFO - Removed 1 duplicate entries for postcode 30815.
+2025-01-15 03:33:17,785 - INFO - Removed 1 duplicate entries for postcode 30291.
+2025-01-15 03:33:17,787 - INFO - Removed 1 duplicate entries for postcode 31775.
+2025-01-15 03:33:17,788 - INFO - Removed 1 duplicate entries for postcode 31019.
+2025-01-15 03:33:17,790 - INFO - Removed 1 duplicate entries for postcode 31727.
+2025-01-15 03:33:17,794 - INFO - Removed 1 duplicate entries for postcode 30098.
+2025-01-15 03:33:17,797 - INFO - Removed 1 duplicate entries for postcode 31780.
+2025-01-15 03:33:17,800 - INFO - Removed 1 duplicate entries for postcode 30398.
+2025-01-15 03:33:17,802 - INFO - Removed 1 duplicate entries for postcode 31522.
+2025-01-15 03:33:17,804 - INFO - Removed 1 duplicate entries for postcode 31601.
+2025-01-15 03:33:17,806 - INFO - Removed 1 duplicate entries for postcode 30153.
+2025-01-15 03:33:17,810 - INFO - Removed 1 duplicate entries for postcode 31052.
+2025-01-15 03:33:17,813 - INFO - Removed 1 duplicate entries for postcode 31605.
+2025-01-15 03:33:17,814 - INFO - Removed 1 duplicate entries for postcode 30648.
+2025-01-15 03:33:17,815 - INFO - Removed 1 duplicate entries for postcode 30663.
+2025-01-15 03:33:17,817 - INFO - Removed 1 duplicate entries for postcode 30265.
+2025-01-15 03:33:17,818 - INFO - Removed 1 duplicate entries for postcode 30474.
+2025-01-15 03:33:17,819 - INFO - Removed 1 duplicate entries for postcode 31045.
+2025-01-15 03:33:17,820 - INFO - Removed 1 duplicate entries for postcode 30271.
+2025-01-15 03:33:17,821 - INFO - Removed 1 duplicate entries for postcode 30906.
+2025-01-15 03:33:17,823 - INFO - Removed 1 duplicate entries for postcode 31075.
+2025-01-15 03:33:17,828 - INFO - Removed 1 duplicate entries for postcode 31406.
+2025-01-15 03:33:17,831 - INFO - Removed 1 duplicate entries for postcode 30257.
+2025-01-15 03:33:17,833 - INFO - Removed 1 duplicate entries for postcode 31997.
+2025-01-15 03:33:17,834 - INFO - Removed 1 duplicate entries for postcode 30156.
+2025-01-15 03:33:17,836 - INFO - Removed 1 duplicate entries for postcode 30030.
+2025-01-15 03:33:17,837 - INFO - Removed 1 duplicate entries for postcode 30218.
+2025-01-15 03:33:17,838 - INFO - Removed 1 duplicate entries for postcode 30330.
+2025-01-15 03:33:17,841 - INFO - Removed 1 duplicate entries for postcode 30806.
+2025-01-15 03:33:17,846 - INFO - Removed 1 duplicate entries for postcode 30021.
+2025-01-15 03:33:17,847 - INFO - Removed 1 duplicate entries for postcode 30230.
+2025-01-15 03:33:17,848 - INFO - Removed 1 duplicate entries for postcode 30068.
+2025-01-15 03:33:17,849 - INFO - Removed 1 duplicate entries for postcode 30604.
+2025-01-15 03:33:17,850 - INFO - Removed 1 duplicate entries for postcode 31018.
+2025-01-15 03:33:17,851 - INFO - Removed 1 duplicate entries for postcode 30546.
+2025-01-15 03:33:17,852 - INFO - Removed 1 duplicate entries for postcode 30529.
+2025-01-15 03:33:17,853 - INFO - Removed 1 duplicate entries for postcode 31404.
+2025-01-15 03:33:17,854 - INFO - Removed 1 duplicate entries for postcode 31312.
+2025-01-15 03:33:17,856 - INFO - Removed 1 duplicate entries for postcode 31081.
+2025-01-15 03:33:17,862 - INFO - Removed 1 duplicate entries for postcode 31730.
+2025-01-15 03:33:17,865 - INFO - Removed 1 duplicate entries for postcode 30173.
+2025-01-15 03:33:17,867 - INFO - Removed 1 duplicate entries for postcode 39866.
+2025-01-15 03:33:17,868 - INFO - Removed 1 duplicate entries for postcode 31405.
+2025-01-15 03:33:17,869 - INFO - Removed 1 duplicate entries for postcode 31829.
+2025-01-15 03:33:17,870 - INFO - Removed 1 duplicate entries for postcode 30313.
+2025-01-15 03:33:17,871 - INFO - Removed 1 duplicate entries for postcode 30475.
+2025-01-15 03:33:17,875 - INFO - Removed 1 duplicate entries for postcode 31641.
+2025-01-15 03:33:17,880 - INFO - Removed 1 duplicate entries for postcode 31804.
+2025-01-15 03:33:17,881 - INFO - Removed 1 duplicate entries for postcode 30753.
+2025-01-15 03:33:17,882 - INFO - Removed 1 duplicate entries for postcode 30612.
+2025-01-15 03:33:17,883 - INFO - Removed 1 duplicate entries for postcode 31553.
+2025-01-15 03:33:17,884 - INFO - Removed 1 duplicate entries for postcode 30010.
+2025-01-15 03:33:17,885 - INFO - Removed 1 duplicate entries for postcode 30624.
+2025-01-15 03:33:17,886 - INFO - Removed 1 duplicate entries for postcode 31054.
+2025-01-15 03:33:17,887 - INFO - Removed 1 duplicate entries for postcode 31520.
+2025-01-15 03:33:17,889 - INFO - Removed 1 duplicate entries for postcode 30677.
+2025-01-15 03:33:17,892 - INFO - Removed 1 duplicate entries for postcode 31204.
+2025-01-15 03:33:17,897 - INFO - Removed 1 duplicate entries for postcode 31519.
+2025-01-15 03:33:17,899 - INFO - Removed 1 duplicate entries for postcode 31698.
+2025-01-15 03:33:17,900 - INFO - Removed 1 duplicate entries for postcode 30623.
+2025-01-15 03:33:17,901 - INFO - Removed 1 duplicate entries for postcode 30060.
+2025-01-15 03:33:17,902 - INFO - Removed 1 duplicate entries for postcode 30541.
+2025-01-15 03:33:17,903 - INFO - Removed 1 duplicate entries for postcode 31626.
+2025-01-15 03:33:17,905 - INFO - Removed 1 duplicate entries for postcode 31001.
+2025-01-15 03:33:17,909 - INFO - Removed 1 duplicate entries for postcode 30106.
+2025-01-15 03:33:17,914 - INFO - Removed 1 duplicate entries for postcode 30513.
+2025-01-15 03:33:17,915 - INFO - Removed 1 duplicate entries for postcode 30334.
+2025-01-15 03:33:17,916 - INFO - Removed 1 duplicate entries for postcode 31309.
+2025-01-15 03:33:17,917 - INFO - Removed 1 duplicate entries for postcode 39852.
+2025-01-15 03:33:17,918 - INFO - Removed 1 duplicate entries for postcode 30734.
+2025-01-15 03:33:17,920 - INFO - Removed 1 duplicate entries for postcode 30738.
+2025-01-15 03:33:17,922 - INFO - Removed 1 duplicate entries for postcode 30565.
+2025-01-15 03:33:17,928 - INFO - Removed 1 duplicate entries for postcode 30628.
+2025-01-15 03:33:17,930 - INFO - Removed 1 duplicate entries for postcode 31501.
+2025-01-15 03:33:17,931 - INFO - Removed 1 duplicate entries for postcode 30220.
+2025-01-15 03:33:17,932 - INFO - Removed 1 duplicate entries for postcode 30090.
+2025-01-15 03:33:17,933 - INFO - Removed 1 duplicate entries for postcode 30228.
+2025-01-15 03:33:17,934 - INFO - Removed 1 duplicate entries for postcode 30735.
+2025-01-15 03:33:17,936 - INFO - Removed 1 duplicate entries for postcode 31196.
+2025-01-15 03:33:17,938 - INFO - Removed 1 duplicate entries for postcode 30665.
+2025-01-15 03:33:17,942 - INFO - Removed 1 duplicate entries for postcode 30619.
+2025-01-15 03:33:17,946 - INFO - Removed 1 duplicate entries for postcode 30364.
+2025-01-15 03:33:17,947 - INFO - Removed 1 duplicate entries for postcode 31331.
+2025-01-15 03:33:17,949 - INFO - Removed 1 duplicate entries for postcode 31016.
+2025-01-15 03:33:17,950 - INFO - Removed 1 duplicate entries for postcode 39836.
+2025-01-15 03:33:17,952 - INFO - Removed 1 duplicate entries for postcode 30065.
+2025-01-15 03:33:17,954 - INFO - Removed 1 duplicate entries for postcode 30377.
+2025-01-15 03:33:17,955 - INFO - Removed 1 duplicate entries for postcode 30161.
+2025-01-15 03:33:17,958 - INFO - Removed 1 duplicate entries for postcode 30553.
+2025-01-15 03:33:17,961 - INFO - Removed 1 duplicate entries for postcode 31318.
+2025-01-15 03:33:17,964 - INFO - Removed 1 duplicate entries for postcode 30085.
+2025-01-15 03:33:17,965 - INFO - Removed 1 duplicate entries for postcode 30229.
+2025-01-15 03:33:17,966 - INFO - Removed 1 duplicate entries for postcode 31753.
+2025-01-15 03:33:17,967 - INFO - Removed 1 duplicate entries for postcode 30439.
+2025-01-15 03:33:17,968 - INFO - Removed 1 duplicate entries for postcode 30095.
+2025-01-15 03:33:17,970 - INFO - Removed 1 duplicate entries for postcode 39870.
+2025-01-15 03:33:17,971 - INFO - Removed 1 duplicate entries for postcode 30471.
+2025-01-15 03:33:17,972 - INFO - Removed 1 duplicate entries for postcode 31323.
+2025-01-15 03:33:17,974 - INFO - Removed 1 duplicate entries for postcode 30083.
+2025-01-15 03:33:17,978 - INFO - Removed 1 duplicate entries for postcode 30075.
+2025-01-15 03:33:17,980 - INFO - Removed 1 duplicate entries for postcode 30559.
+2025-01-15 03:33:17,981 - INFO - Removed 1 duplicate entries for postcode 31092.
+2025-01-15 03:33:17,983 - INFO - Removed 1 duplicate entries for postcode 31094.
+2025-01-15 03:33:17,986 - INFO - Removed 1 duplicate entries for postcode 30076.
+2025-01-15 03:33:17,987 - INFO - Removed 1 duplicate entries for postcode 30811.
+2025-01-15 03:33:17,989 - INFO - Removed 1 duplicate entries for postcode 31645.
+2025-01-15 03:33:17,992 - INFO - Removed 1 duplicate entries for postcode 30216.
+2025-01-15 03:33:17,996 - INFO - Removed 1 duplicate entries for postcode 30386.
+2025-01-15 03:33:17,997 - INFO - Removed 1 duplicate entries for postcode 30814.
+2025-01-15 03:33:17,998 - INFO - Removed 1 duplicate entries for postcode 31022.
+2025-01-15 03:33:17,999 - INFO - Removed 1 duplicate entries for postcode 30539.
+2025-01-15 03:33:18,001 - INFO - Removed 1 duplicate entries for postcode 30740.
+2025-01-15 03:33:18,002 - INFO - Removed 1 duplicate entries for postcode 30412.
+2025-01-15 03:33:18,004 - INFO - Removed 1 duplicate entries for postcode 30112.
+2025-01-15 03:33:18,006 - INFO - Removed 1 duplicate entries for postcode 30126.
+2025-01-15 03:33:18,012 - INFO - Removed 1 duplicate entries for postcode 30750.
+2025-01-15 03:33:18,014 - INFO - Removed 1 duplicate entries for postcode 30337.
+2025-01-15 03:33:18,016 - INFO - Removed 1 duplicate entries for postcode 30321.
+2025-01-15 03:33:18,018 - INFO - Removed 1 duplicate entries for postcode 30905.
+2025-01-15 03:33:18,020 - INFO - Removed 1 duplicate entries for postcode 39832.
+2025-01-15 03:33:18,021 - INFO - Removed 1 duplicate entries for postcode 30339.
+2025-01-15 03:33:18,022 - INFO - Removed 1 duplicate entries for postcode 30537.
+2025-01-15 03:33:18,027 - INFO - Removed 1 duplicate entries for postcode 30312.
+2025-01-15 03:33:18,029 - INFO - Removed 1 duplicate entries for postcode 30293.
+2025-01-15 03:33:18,031 - INFO - Removed 1 duplicate entries for postcode 30094.
+2025-01-15 03:33:18,032 - INFO - Removed 1 duplicate entries for postcode 30542.
+2025-01-15 03:33:18,033 - INFO - Removed 1 duplicate entries for postcode 30146.
+2025-01-15 03:33:18,034 - INFO - Removed 1 duplicate entries for postcode 30233.
+2025-01-15 03:33:18,035 - INFO - Removed 1 duplicate entries for postcode 31523.
+2025-01-15 03:33:18,036 - INFO - Removed 1 duplicate entries for postcode 30725.
+2025-01-15 03:33:18,037 - INFO - Removed 1 duplicate entries for postcode 30450.
+2025-01-15 03:33:18,039 - INFO - Removed 1 duplicate entries for postcode 31030.
+2025-01-15 03:33:18,043 - INFO - Removed 1 duplicate entries for postcode 39813.
+2025-01-15 03:33:18,086 - INFO - Ensured unique index on 'postcode' in 'postalcodes' collection.
+2025-01-15 03:33:18,544 - INFO - Upserted 0 new records into MongoDB.
+2025-01-15 03:33:18,544 - INFO - Script completed successfully.
+2025-01-15 03:33:18,545 - INFO - MongoDB connection closed.
+2025-02-08 20:09:32,680 - INFO - Successfully fetched the page: https://www.unitedstateszipcodes.org/ga/
+2025-02-08 20:09:33,900 - INFO - Extracted state name: Georgia
+2025-02-08 20:09:34,442 - INFO - Extracted 973 zip code records.
+2025-02-08 20:09:34,459 - INFO - Transformed data into 973 MongoDB documents.
+2025-02-08 20:09:34,566 - INFO - Data has been saved to 'output\Georgia_zipcodes.json'
+2025-02-08 20:09:34,739 - INFO - Connected to MongoDB successfully.
+2025-02-08 20:09:34,960 - INFO - Ensured unique index on 'postcode' in 'postalcodes' collection.
+2025-02-08 20:09:36,772 - INFO - Upserted 3 new records into MongoDB.
+2025-02-08 20:09:36,773 - INFO - Script completed successfully.
+2025-02-08 20:09:36,777 - INFO - MongoDB connection closed.
+2025-02-08 20:11:14,742 - INFO - Successfully fetched the page: https://www.unitedstateszipcodes.org/pa/
+2025-02-08 20:11:16,270 - INFO - Extracted state name: Pennsylvania
+2025-02-08 20:11:16,884 - INFO - Extracted 2213 zip code records.
+2025-02-08 20:11:16,893 - INFO - Transformed data into 2213 MongoDB documents.
+2025-02-08 20:11:16,942 - INFO - Data has been saved to 'output\Pennsylvania_zipcodes.json'
+2025-02-08 20:11:16,960 - INFO - Connected to MongoDB successfully.
+2025-02-08 20:11:17,051 - INFO - Ensured unique index on 'postcode' in 'postalcodes' collection.
+2025-02-08 20:11:20,071 - INFO - Upserted 2213 new records into MongoDB.
+2025-02-08 20:11:20,071 - INFO - Script completed successfully.
+2025-02-08 20:11:20,074 - INFO - MongoDB connection closed.
