@@ -75,8 +75,8 @@ Ensure that MongoDB is running if you intend to save the data to MongoDB.
 
 - This is the website from where this tool fetches data.
 <div>
-    <img src="https://github.com/roshaanmehar/Zip-Codes-Scraper/blob/main/Screenshot%202025-02-08%20225017.png" width="300">
-<img src="https://github.com/roshaanmehar/Zip-Codes-Scraper/blob/main/Screenshot%202025-02-08%20225044.png" width="300">
+    <img src="https://github.com/roshaanmehar/Zip-Codes-Scraper/blob/main/Screenshot%202025-02-08%20225017.png" width="500">
+<img src="https://github.com/roshaanmehar/Zip-Codes-Scraper/blob/main/Screenshot%202025-02-08%20225044.png" width="500">
     
 </div>
 
