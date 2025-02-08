@@ -73,6 +73,10 @@ Ensure that MongoDB is running if you intend to save the data to MongoDB.
   
 - **MongoDB Output:** Data is stored in a collection named `postalcodes` within a database named after the state (e.g., `Georgia`).
 
+- This is the website from where this tool fetches data.
+<img src="https://github.com/roshaanmehar/Zip-Codes-Scraper/blob/main/Screenshot%202025-02-08%20225017.png" width="400">
+<img src="https://github.com/roshaanmehar/Zip-Codes-Scraper/blob/main/Screenshot%202025-02-08%20225044.png" width="400">
+
 ---
 
 ## **MongoDB Usage**
