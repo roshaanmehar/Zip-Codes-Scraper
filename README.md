@@ -1,4 +1,4 @@
-# **United States Zip Code Scraper**
+# **Zip Code Scraper**
 
 ### **Overview**
 This project provides a robust solution to extract and store zip code data from a state-specific webpage. Data is transformed into structured formats and saved to both JSON files and MongoDB collections.
