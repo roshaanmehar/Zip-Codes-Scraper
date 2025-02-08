@@ -1,12 +1,3 @@
-## **Project Description**
-This project is a web scraper for extracting zip code data from the United States Zip Codes website (https://www.unitedstateszipcodes.org). The script efficiently scrapes state-specific zip code details, including zip codes, common cities, county information, and area codes. The extracted data is transformed and stored in both JSON files and MongoDB collections for further use.
-
-The scraper ensures structured data handling, supports deduplication, and creates unique indices for MongoDB collections to maintain data integrity. Logging functionality is included to monitor script activities and errors.
-
----
-
-## **README.md**
-
 # **United States Zip Code Scraper**
 
 ### **Overview**
